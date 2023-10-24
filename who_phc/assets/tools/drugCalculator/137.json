@@ -1,0 +1,4285 @@
+[
+  {
+    "Name": "Acetylsalicylic acid (aspirin)",
+    "DefaultDisease": null,
+    "Note": {
+      "Text": "Avoid in young children, if possible, because of the risk of Reye syndrome"
+    },
+    "Diseases": [
+      {
+        "Name": "Kawasaki disease",
+        "Dosages": [
+          {
+            "Name": "3–5 mg/kg once a day (max. 300 mg/day)",
+            "Dose": "once a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 100 mg",
+                "Values": [
+                  "–",
+                  "¼ ",
+                  "½ ",
+                  "¾ ",
+                  "1",
+                  "1 ½ ",
+                  "2",
+                  "2–3"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Juvenile idiopathic arthritis",
+        "Dosages": [
+          {
+            "Name": "20–25 mg/kg 3–4 times a day (max. 4 g/day)",
+            "Dose": "3–4 times a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1–1½ ",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Aciclovir",
+    "Note": {
+      "Text": "For dosages for genital herpes",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/8/123table"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "20 mg/kg 4 times a day* (max. 800 mg/dose or 3.2 g/day)",
+          "Dose": "4 times a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 20 mg/mL",
+              "Values": [
+                "5 mL",
+                "7 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 200 mg",
+              "Values": [
+                "½",
+                "¾",
+                "1",
+                "1",
+                "2",
+                "3",
+                "4",
+                "4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Adrenaline",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "See ",
+      "Link": {
+        "Title": "epinephrine",
+        "Path": "drug/Epinephrine (Adrenaline)"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Albendazole",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "400 mg once a day",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 400 mg",
+              "Values": [
+                "Off-label",
+                "Off-label",
+                "Off-label",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Amitriptyline",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Depression in palliative care",
+        "Dosages": [
+          {
+            "Name": "9–12 years: 0.3 mg/kg (increase up to 0.5 mg/kg) 3 times a day",
+            "Dose": "3 times a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 10 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "½ ",
+                  "¾ ",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              },
+              {
+                "Name": "Tablet 25 mg",
+                "Values": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "Adolescents: 10 mg 3 times a day and 20 mg at bedtime (max. 200 mg/day)",
+            "Dose": "3 times a day",
+            "Formulations": [
+              {
+                "Name": "",
+                "Values": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Amoxicillin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "25 mg/kg twice a day (max. 1 g/day)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "2 mL",
+                "4 mL",
+                "6 mL",
+                "8 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "½",
+                "1",
+                "1½",
+                "2",
+                "2",
+                "2",
+                "2",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "½ ",
+                "¾ ",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Pneumonia, acute otitis media, sinusitis",
+        "Dosages": [
+          {
+            "Name": "30 mg/kg 3 times a day (max. 1 g/dose or 3 g/day)",
+            "Dose":"3 times a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 250 mg/5 mL",
+                "Values": [
+                  "2.5 mL",
+                  "5 mL",
+                  "7.5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "½",
+                  "1",
+                  "1½ ",
+                  "2",
+                  "3",
+                  "4",
+                  "4",
+                  "4"
+                ]
+              },
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "½ ",
+                  "¾ ",
+                  "1",
+                  "1½ ",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Amoxicillin/clavulanate",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "25 mg/kg amoxicillin twice a day (max. 3 g/day)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 125/31.2 mg/5 mL",
+              "Values": [
+                "2.5 mL",
+                "4 mL",
+                "6 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "250/62.5 mg/5 mL",
+              "Values": [
+                "1.3 mL",
+                "2 mL",
+                "3 mL",
+                "5 mL",
+                "7 mL",
+                "10 mL",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 500/125 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "½",
+                "½ ",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Pneumonia, acute otitis media, complicated otitis externa",
+        "Dosages": [
+          {
+            "Name": "30 mg/kg amoxicillin 3 times a day (max. 3 g/day)",
+            "Dose":"3 times a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 100/12.5 mg/mL",
+                "Values": [
+                  "1.2 mL",
+                  "2 mL",
+                  "3.5 mL",
+                  "5 mL",
+                  "7 mL",
+                  "10 mL",
+                  "10 mL",
+                  "10 mL"
+                ]
+              },
+              {
+                "Name": "Tablet 875/125 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "50 mg/kg amoxicillin 3 times a day (max. 3 g/day)",
+            "BackColor":"pink",
+            "Dose": "3 times a day",
+            "Formulations": [
+              {
+                "Name": "IV: vial 1000 mg/200 mg",
+                "Values": [
+                  "4 mL",
+                  "8 mL",
+                  "12 mL",
+                  "17 mL",
+                  "25 mL",
+                  "35 mL",
+                  "45 mL",
+                  "60 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Ampicillin",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "For dosages and dosage intervals in newborns and premature infants up to 4.5 kg",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/11/enteral-parenteral-drugs"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg every 6 h (max. 12 g/day)",
+          "Dose": "every 6 h",
+          "Formulations": [
+            {
+              "Name": "IV/IM: vial 500 mg mixed with 2.1 mL sterile water (500 mg/2.5 mL)",
+              "Values": [
+                "1 mL*",
+                "2 mL",
+                "3 mL",
+                "5 mL",
+                "5 mL",
+                "8 mL",
+                "10 mL",
+                "10 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Antirabies immunoglobulin",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "20 IU/kg: infiltrate around the wound; give any remaining dose IM",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Vial: 150 IU/mL",
+              "Values": [
+                "0.7 mL",
+                "1 mL",
+                "1.5 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "4.5 mL",
+                "6 mL",
+                "8 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Antitetanus immunoglobulin",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "250 IU as single dose",
+          "Dose": "as single dose",
+          "Formulations": [
+            {
+              "Name": "IM: vial: 500 IU/mL",
+              "Values": [
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Antivenom immunoglobulin",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Exact type to be defined locally. Consult specific product labelling for dosage and administration."
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Azithromycin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "10 mg/kg once a day (max. 500 mg/day)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 200 mg/5 mL",
+              "Values": [
+                "1 mL",
+                "2 mL",
+                "3 mL",
+                "4 mL",
+                "5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 250 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "2",
+                "2"
+              ]
+            },
+            {
+              "Name": "Capsule 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Epididymo-orchitis (Chlamydia)",
+        "Dosages": [
+          {
+            "Name": "1 g single dose",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "Capsule 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "(Gonorrhoea)",
+        "Dosages": [
+          {
+            "Name": "2 g single dose",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "Capsule 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "4",
+                  "4",
+                  "4"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Betamethasone",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "See table for inhaled ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "tables/11/139table"
+      }
+    },
+    "Note2": {
+      "Text": ". For properties and equivalent doses of systemic ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "info/12/systemic-corticosteroids"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Budesonide",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "See table for inhaled ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "tables/11/139table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Bupivacaine",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Local infiltration (max. 2.5 mg/kg or 175 mg/dose). Solution 0.25% (2.5 mg/mL) and solution 0.5% (5 mg/mL) available"
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Carbamazepine",
+    "Note": {
+      "Text": "Dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Cefadroxil",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "15 mg/kg twice a day (max. 2 g/day)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "1.2 mL",
+                "2.5 mL",
+                "3.7 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1–2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Cefalexin",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Tonsillitis",
+        "Dosages": [
+          {
+            "Name": "20 mg/kg twice a day (max. 1 g/day)",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 125 mg/5 mL",
+                "Values": [
+                  "3 mL",
+                  "5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Syrup 250 mg/5 mL",
+                "Values": [
+                  "2 mL",
+                  "2.5 mL",
+                  "5 mL",
+                  "7.5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "–",
+                  "½",
+                  "1",
+                  "1½",
+                  "2",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Mild/moderate infections",
+        "Dosages": [
+          {
+            "Name": "12.5 mg/kg 4 times a day (max. 2 g/day)",
+            "Dose": "4 times a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 125 mg/5 mL",
+                "Values": [
+                  "2 mL",
+                  "4 mL",
+                  "5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Syrup 250 mg/5 mL",
+                "Values": [
+                  "1 mL",
+                  "2 mL",
+                  "3 mL",
+                  "5 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "–",
+                  "½",
+                  "½",
+                  "1",
+                  "1",
+                  "1½",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Severe infections (bone, joints)",
+        "Dosages": [
+          {
+            "Name": "25 mg/kg 4 times a day (max. 4 g/day)",
+            "Dose": "4 times a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 125 mg/5 mL",
+                "Values": [
+                  "4 mL",
+                  "7.5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Syrup 250 mg/5 mL",
+                "Values": [
+                  "2 mL",
+                  "4 mL",
+                  "6 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "½",
+                  "1",
+                  "1½",
+                  "2",
+                  "2–3",
+                  "3",
+                  "4",
+                  "4"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Cefixime",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "8 mg/kg twice a day first day, then once a day (max. 400 mg/day)",
+          "Dose": "twice a day first day, then once a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 100 mg/5 mL",
+              "Values": [
+                "1.5 mL",
+                "3 mL",
+                "5 mL",
+                "7 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 200 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "2",
+                "2"
+              ]
+            },
+            {
+              "Name": "Capsule 400 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Gonorrhoea",
+        "Dosages": [
+          {
+            "Name": "400 mg single dose",
+            "Dose":"as single dose",
+            "Formulations": [
+              {
+                "Name": "Capsule 400 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Cefotaxime",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "For dosages and dosage intervals in newborns and premature infants up to 4.5 kg",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/11/enteral-parenteral-drugs"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg every 6 h (max. 12 g/day)",
+          "Dose":"every 6 h",
+          "Formulations": [
+            {
+              "Name": "IV/IM Vial 250 mg to dissolve in 1 mL",
+              "Values": [
+                "1 mL*",
+                "1.5 mL",
+                "2–3 mL",
+                "3–4 mL",
+                "4–6 mL",
+                "6–8 mL",
+                "8–10 mL",
+                "12 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ceftriaxone",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg once or twice a day (max. 4 g/dose)",
+          "Dose": "once or twice a day",
+          "Formulations": [
+            {
+              "Name": "IV: vial 1 g mixed with 9.6 mL sterile water (1 g = 10 mL)",
+              "Values": [
+                "2 mL",
+                "4 mL",
+                "6 mL",
+                "9 mL",
+                "12 mL",
+                "1.7 mL",
+                "2 mL",
+                "30 mL"
+              ]
+            },
+            {
+              "Name": "IM: consult specific product labelling for reconstitution.",
+              "Values": [
+                "200 mg",
+                "400 mg",
+                "600 mg",
+                "900 mg",
+                "1.2 g",
+                "1.7 g",
+                "2.2 g",
+                "3 g"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Epididymo-orchitis",
+        "Dosages": [
+          {
+            "Name": "1 g single dose",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "",
+                "Values": [
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "-",
+                  "1 g",
+                  "1 g",
+                  "1 g"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Cefuroxime axetil",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "15 mg/kg twice a day (max. 1 g/day)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "1.5 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "2",
+                "2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Charcoal (activated)",
+    "Note": {
+      "Text": "Give the whole amount at once; if the child has difficulty in tolerating it, divide the charcoal dose"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1 g/kg single dose",
+          "Dose":"as single dose",
+          "Formulations": [
+            {
+              "Name": "Powder; mix in 8–10 volumes of water",
+              "Values": [
+                "5 g",
+                "10 g",
+                "1–12 years: 25–50 g",
+                "1–12 years: 25–50 g",
+                "1–12 years: 25–50 g",
+                "1–12 years: 25–50 g",
+                "Adolescents: 25–100 g",
+                "Adolescents: 25–100 g"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ciclesonide",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "See table for inhaled ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "tables/11/139table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ciprofloxacin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "15 mg/kg twice a day (max. 500 mg/dose)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "1.2 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg",
+              "Values": [
+                "½",
+                "1",
+                "1½",
+                "2",
+                "3",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "¼",
+                "½",
+                "½",
+                "1",
+                "1½",
+                "2",
+                "2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Clarithromycin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "7.5 mg/kg twice a day (max. 1 g/day) ",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 125 mg/5 mL",
+              "Values": [
+                "1.2 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "0.5 mL",
+                "1.2 mL",
+                "2 mL",
+                "2.5 mL",
+                "4 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "½",
+                "½ – 1",
+                "1",
+                "1–2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Clonazepam",
+    "Note": {
+      "Text": "Dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Cloxacillin, flucloxacillin",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "For dosages in newborns and premature infants up to 4.5 kg",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/11/enteral-parenteral-drugs"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "15 mg/kg 4 times a day (max. 4 g/day)",
+          "Dose": "4 times a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 125 mg/5 mL",
+              "Values": [
+                "2.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 250 mg",
+              "Values": [
+                "¼ ",
+                "½ ",
+                "1",
+                "1 ",
+                "1½",
+                "2",
+                "2–3",
+                "4"
+              ]
+            },
+            {
+              "Name": "Capsule 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "½",
+                "½–1",
+                "1",
+                "1–1½",
+                "2"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "25(–50) mg/kg every 6 h (max. 4 g/day)",
+          "BackColor": "pink",
+          "Dose": "every 6 h",
+          "Formulations": [
+            {
+              "Name": "IV: vial 500 mg mixed with 8 mL sterile water (500 mg/10 mL)",
+              "Values": [
+                "2 mL*",
+                "4 mL",
+                "6 mL",
+                "8 mL",
+                "12 mL",
+                "17.5 mL",
+                "20 mL",
+                "20 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Co-trimoxazole (trimethoprim and sulfamethoxazole)",
+    "Note": {
+      "Text": "Contraindicated in newborns < 1 month."
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "4 mg/kg trimethoprim and 20 mg/kg sulfamethoxazole twice a day",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 40/200 mg/5 mL",
+              "Values": [
+                "2 mL*",
+                "3.5 mL",
+                "6 mL",
+                "8.5 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 20/100 mg ",
+              "Values": [
+                "1",
+                "2",
+                "3",
+                "3–4",
+                "4–5",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 80/400 mg",
+              "Values": [
+                "¼",
+                "½",
+                "1",
+                "1",
+                "1",
+                "2",
+                "2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "For pneumocystis pneumonia prophylaxis",
+        "Dosages": [
+          {
+            "Name": "6–8 mg/kg trimethoprim once a day (maximum 160 mg trimethoprim/dose)",
+            "Dose": "once a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 40/200 mg/5 mL",
+                "Values": [
+                  "4 mL",
+                  "7 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 20/100 mg ",
+                "Values": [
+                  "1½ ",
+                  "2–3",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 80/400 mg",
+                "Values": [
+                  "–",
+                  "1",
+                  "1",
+                  "1½",
+                  "2",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Deferasirox",
+    "Note": {
+      "Text": "Consult specific product labelling for dosage and follow specialist plan",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/7/thalassaemia-management"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Dexamethasone",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "Table for properties and equivalent doses of systemic corticosteroids",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/12/systemic-corticosteroids"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Mild croup",
+        "Dosages": [
+          {
+            "Name": "0.15 mg/kg single dose (max. 16 mg/dose)",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "Syrup 2 mg/5 mL",
+                "Values": [
+                  "1.5 mL",
+                  "3 mL",
+                  "5 mL",
+                  "7 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 0.5 mg",
+                "Values": [
+                  "1",
+                  "2",
+                  "4",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 2 mg",
+                "Values": [
+                  "–",
+                  "½ ",
+                  "1",
+                  "1½",
+                  "2",
+                  "2½",
+                  "3",
+                  "4"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Severe croup",
+        "Dosages": [
+          {
+            "Name": "0.6 mg/kg single dose (max. 16 mg/dose)",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "Syrup 2 mg/5 mL",
+                "Values": [
+                  "5 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 2 mg",
+                "Values": [
+                  "1",
+                  "2",
+                  "4",
+                  "5",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 4 mg",
+                "Values": [
+                  "½",
+                  "1",
+                  "2",
+                  "2½",
+                  "4",
+                  "4",
+                  "4",
+                  "4"
+                ]
+              },
+              {
+                "Name": "IM: vial 4 mg/mL",
+                "BackColor": "pink",
+                "Values": [
+                  "0.6 mL",
+                  "1.2 mL",
+                  "1.8 mL",
+                  "2.5 mL",
+                  "4 mL",
+                  "4 mL",
+                  "4 mL",
+                  "4 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Diazepam",
+    "BottomNotes": true,
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Anxiety",
+        "Dosages": [
+          {
+            "Name": "0.2 mg/kg once or twice a day (max. 5 mg/dose in < 5 years; 10 mg in > 5 years)",
+            "Dose": "once or twice a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 5 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "½ ",
+                  "¾ ",
+                  "1",
+                  "1–1½ ",
+                  "2",
+                  "2"
+                ]
+              },
+              {
+                "Name": "Tablet 10 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "¼ ",
+                  "¼–½ ",
+                  "½",
+                  "½–¾ ",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Convulsions",
+        "Dosages": [
+          {
+            "Name": "Rectal: 0.5 mg/kg (max. 20 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Rectal tubes 2.5 mg, 5 mg, 10 mg",
+                "Values": [
+                  "2.5 mg",
+                  "5 mg",
+                  "5 mg",
+                  "10 mg",
+                  "10 mg",
+                  "15 mg",
+                  "20 mg",
+                  "20 mg"
+                ]
+              },
+              {
+                "Name": "Solution 10 mg/2 mL",
+                "Values": [
+                  "0.5 mL",
+                  "1 mL",
+                  "1.25 mL",
+                  "1.5 mL",
+                  "2.5 mL",
+                  "3.5 mL",
+                  "4 mL",
+                  "4 mL"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "IV: 0.2–0.25 mg/kg (max. 10 mg/dose)",
+            "Dose": "",
+            "BackColor": "pink",
+            "Formulations": [
+              {
+                "Name": "Solution 10 mg/2 mL",
+                "Values": [
+                  "0.2 mL",
+                  "0.4 mL",
+                  "0.6 mL",
+                  "0.75 mL",
+                  "1.25 mL",
+                  "1.75 mL",
+                  "2 mL",
+                  "2 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Diphenhydramine",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1.25 mg/kg 4 times a day (max. 300 mg/day)",
+          "Dose":"4 times a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 12.5 mg/5 mL",
+              "Values": [
+                "–",
+                "–",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 25 mg",
+              "Values": [
+                "–",
+                "–",
+                "½ ",
+                "1",
+                "1–1½",
+                "1½–2",
+                "2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Doxycycline",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "2.2 mg/kg twice a day (max. 100 mg/dose)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 25 mg/5 mL",
+              "Values": [
+                "2 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 50 mg",
+              "Values": [
+                "–",
+                "–",
+                "1",
+                "½–1",
+                "1",
+                "1½ ",
+                "2",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg",
+              "Values": [
+                "–",
+                "–",
+                "¼ ",
+                "¼–½ ",
+                "½ ",
+                "¾ ",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Epinephrine (Adrenaline)",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "make up a 1:10 000 solution by adding 1 mL of 1:1000 solution to 9 mL of normal saline or 5% glucose"
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Severe croup",
+        "Dosages": [
+          {
+            "Name": "0.5 mL/kg of 1:1000 solution (max. 5 mL/dose)",
+            "BackColor": "lightblue",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Nebulized:solution 1:1000",
+                "Values": [
+                  "–",
+                  "3 mL",
+                  "5 mL",
+                  "5 mL",
+                  "5 mL",
+                  "5 mL",
+                  "5 mL",
+                  "5 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Anaphylaxis",
+        "Dosages": [
+          {
+            "Name": "≤ 6 years: 0.15 mL \n > 6 years: 0.3 mL",
+            "BackColor": "pink",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IM: solution 1:1000",
+                "Values": [
+                  "0.15 mL",
+                  "0.15 mL",
+                  "0.15 mL",
+                  "0.15 mL",
+                  "0.3 mL",
+                  "0.3 mL",
+                  "0.3 mL",
+                  "0.3 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Resuscitation",
+        "Dosages": [
+          {
+            "Name": "0.01 mg/kg (= 0.1 mL/kg every 3–5 min (max. 1 mg = 10 mL)",
+            "BackColor": "pink",
+            "Dose":"",
+            "Formulations": [
+              {
+                "Name": "IV/intraosseous: solution 1:10 000",
+                "Values": [
+                  "0.5 mL",
+                  "0.7-1 mL",
+                  "1-1.5 mL",
+                  "1.5-2 mL",
+                  "2-3 mL",
+                  "3-4 mL",
+                  "4-5 mL",
+                  "5-10 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Erythromycin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "12.5 mg/kg 4 times a day (max. 4 g/day)",
+          "Dose": "4 times a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "¼",
+                "½",
+                "1",
+                "1",
+                "1½",
+                "2",
+                "2",
+                "3"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Estrogen-progestogen",
+    "Note": {
+      "Text": "See table for emergency ",
+      "Link": {
+        "Title": "contraception",
+        "Path": "tables/8/120table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ethambutol",
+    "Note": {
+      "Text": "See table for TB ",
+      "Link": {
+        "Title": "treatment",
+        "Path": "tables/11/149table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ethosuximide",
+    "Note": {
+      "Text": "Dosages according to the specialist antiepileptic treatment plan. For side-effects and monitoring,",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Famciclovir",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "250 mg 2 or 3 times a day",
+          "Dose":"2 or 3 times a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Flucloxacillin",
+    "Note": {
+      "Text": "See ",
+      "Link": {
+        "Title": "Cloxacillin",
+        "Path": "drug/Cloxacillin"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Fluconazole",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "3 mg/kg once a day (6 mg/kg first day) (max. 600 mg/day)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 50 mg/5 mL",
+              "Values": [
+                "–",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 50 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "1",
+                "1½ ",
+                "2",
+                "2–2½ ",
+                "3–4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Fluoxetine",
+    "Note": {
+      "Text": "After several weeks, increase up to 20 mg once a day if required"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "Start with 5 or 10 mg once a day.",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 20 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Fluticasone",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "See table for inhaled ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "tables/11/139table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Formoterol + inhaled corticosteroid",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "see table for inhaled corticosteroids + long-acting beta2-agonists, ",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/11/140table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Gabapentin",
+    "Note": {
+      "Text": "Dosages according to the specialist antiepileptic treatment plan. For side-effects and monitoring,",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Glucose",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Hypoglycaemia: 3 ml/kg 10% glucose solution rapidly IV, ",
+      "Link": {
+        "Title": "see here",
+        "Path": "chart/13"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Griseofulvin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "10–20 mg/kg once a day or divided in 2 doses (max. 1 g/day)",
+          "Dose": "once a day or divided in 2 doses",
+          "Formulations": [
+            {
+              "Name": "Syrup 125 mg/5 mL",
+              "Values": [
+                "–",
+                "5 mL",
+                "7.5 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 125 mg",
+              "Values": [
+                "–",
+                "1",
+                "1½",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6–8"
+              ]
+            },
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "¼ ",
+                "¼–½  ",
+                "½ ",
+                "¾ ",
+                "1",
+                "1–2",
+                "1–2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Haloperidol",
+    "Note": {
+      "Text": "Dosages according to the specialist antiepileptic treatment plan. For side-effects and monitoring,",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Hydroxyurea",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "Start at 15 mg/kg once a day, increase based on monitoring; follow specialist advice (max. 35 mg/kg/day)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ibuprofen",
+    "Note": {
+      "Text": "not advised for children < 3 months"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "5–10 mg/kg every 6–8h (max. 40 mg/kg/day or 2400 mg/day)",
+          "Dose": "every 6–8h",
+          "Formulations": [
+            {
+              "Name": "Syrup 200 mg/5 mL",
+              "Values": [
+                "–",
+                "1.5 mL",
+                "2.5 mL",
+                "3 mL",
+                "5 mL",
+                "7 mL",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 200 mg",
+              "Values": [
+                "–",
+                "¼ ",
+                "½ ",
+                "½ ",
+                "¾ ",
+                "1",
+                "2",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet 400 mg",
+              "Values": [
+                "–",
+                "–",
+                "¼ ",
+                "¼ ",
+                "½ ",
+                "½",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Insulin",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "See ",
+      "Link": {
+        "Title": "here",
+        "Path": "tables/7/105table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ipratropium bromide",
+    "BackColor": "lightblue",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "160 µg",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Metered dose inhaler: 20 µg/dose",
+              "Values": [
+                "8 puffs",
+                "8 puffs",
+                "8 puffs",
+                "8 puffs",
+                "8 puffs",
+                "8 puffs",
+                "8 puffs",
+                "8 puffs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Severe asthma exacerbation",
+        "Dosages": [
+          {
+            "Name": "< 30 kg: 250 µg \n≥ 30 kg: 500 µg",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Solution for nebulizer: 250 µg/mL",
+                "Values": [
+                  "1 mL",
+                  "1 mL",
+                  "1 mL",
+                  "1 mL",
+                  "1 mL",
+                  "2 mL",
+                  "2 mL",
+                  "2 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Iron",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Treatment of iron deficiency",
+        "Dosages": [
+          {
+            "Name": "2–3 mg/kg twice a day (max. 200 mg/day)",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Iron syrup (iron fumarate 100 mg/5 mL)",
+                "Values": [
+                  "0.5 mL",
+                  "1 mL",
+                  "1.5 mL",
+                  "2.5 mL",
+                  "3 mL",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Iron folate tablet (iron sulfate 200 mg + 250 mg folate)",
+                "Values": [
+                  "-",
+                  "-",
+                  "½",
+                  "¾",
+                  "1",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Isoniazid",
+    "Note": {
+      "Text": "See table for TB treatment ",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/11/149table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ivermectin",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Scabies",
+        "Dosages": [
+          {
+            "Name": "200 mg/kg repeated once after 10 days",
+            "Dose": "repeated once after 10 days",
+            "Formulations": [
+              {
+                "Name": "Tablet 3 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "2",
+                  "2½ ",
+                  "3",
+                  "4–5"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Ketamine",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "Calculate exact dose based on the child’s body weight or use the doses above only when this is not possible.\nNot advised for children < 3 months."
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Sedation, severe pain (trauma, burns)",
+        "Dosages": [
+          {
+            "Name": "Nasal: 4 mg/kg, half in each nostril (max. 50 mg = 1 mL per nostril)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Use IV form",
+                "Values": [
+                  "–",
+                  "30 mg",
+                  "50 mg",
+                  "70 mg",
+                  "100 mg",
+                  "100 mg",
+                  "100 mg",
+                  "100 mg"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "Loading dose: 1 mg/kg Further dose (if required): 0.5 mg/kg (max. 100 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV vial 50 mg/mL",
+                "Values": [
+                  "–",
+                  "8 mg",
+                  "12 mg",
+                  "15 mg",
+                  "25 mg ",
+                  "35 mg",
+                  "45 mg",
+                  "60 mg"
+                ]
+              },
+              {
+                "Name": "IV vial 50 mg/mL",
+                "Values": [
+                  "–",
+                  "4 mg",
+                  "6 mg",
+                  "8 mg",
+                  "12 mg",
+                  "17 mg",
+                  "25 mg",
+                  "30 mg"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Lactulose",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1–2 g/kg/day, divided in 1–3 doses (max. 30 g/dose; 40 g/day)",
+          "Dose": "divided in 1–3 doses",
+          "Formulations": [
+            {
+              "Name": "Oral solution 10 g/15 mL",
+              "Values": [
+                "5 mL/day",
+                "5 mL/day",
+                "5–10 mL/day",
+                "5–10 mL/day",
+                "10–20 mL/day",
+                "15–30 mL/day",
+                "15–30 mL/day",
+                "15–30 mL/day"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Lamotrigine",
+    "Note": {
+      "Text": "Dosages according to the specialist antiepileptic treatment plan. For side-effects and monitoring,",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Levetiracetam",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "Calculate exact dose based on the child’s body weight or use the dosages below (calculated for 50 mg/kg/dose).\nAntiepileptic maintenance treatment: dosages according to specialist antiepileptic treatment plan. For side effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Status epilepticus",
+        "Dosages": [
+          {
+            "Name": "40–60 mg/kg (max. 4.5 g/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV vial 500 mg/5 mL",
+                "Values": [
+                  "–",
+                  "400 mg",
+                  "600 mg",
+                  "850 mg",
+                  "1.25 g",
+                  "1.5–2 g",
+                  "2–2.5 g",
+                  "3 g"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Levofloxacin",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Epididymo-orchitis",
+        "Dosages": [
+          {
+            "Name": "500 mg/day once a day",
+            "Dose": "once a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "2",
+                  "2"
+                ]
+              },
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Levonorgestrel",
+    "Note": {
+      "Text": "see table for emergency ",
+      "Link": {
+        "Title": "contraception",
+        "Path": "tables/8/120table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Lidocaine",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Local infiltration; max. 3 mg/kg/dose or 200 mg/dose, not repeated within 2 h. Solution 1% (10 mg/mL) and solution 2% (20 mg/mL) available."
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Loratadine",
+    "Note": {
+      "Text": "not advised for children < 2 years"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "≤ 30 kg: 5 mg once a day \n> 30 kg: 10 mg once a day",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 1 mg/mL",
+              "Values": [
+                "–",
+                "–",
+                "5 mL",
+                "5 mL",
+                "5 mL",
+                "10 mL",
+                "10 mL",
+                "10 mL"
+              ]
+            },
+            {
+              "Name": "Tablet 10 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Lorazepam",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Convulsions",
+        "Dosages": [
+          {
+            "Name": "0.1 mg/kg (max. 4 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: vial 2 mg/mL",
+                "Values": [
+                  "–",
+                  "0.8 mg",
+                  "1.2 mg",
+                  "1.8 mg",
+                  "2.5 mg",
+                  "3.5 mg",
+                  "4 mg",
+                  "4 mg"
+                ]
+              },
+              {
+                "Name": "IV: vial 2 mg/mL",
+                "Values": [
+                  "(0.4 mL)",
+                  "(0.6 mL)",
+                  "(0.9 mL)",
+                  "(1.2 mL)",
+                  "(1.7 mL)",
+                  "(2 mL)",
+                  "(2 mL)"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Mebendazole",
+    "Note": {
+      "Text": "not advised for children < 5 months owing to limited information."
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "3-day regimen:",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Tablet 100 mg twice a day",
+              "Values": [
+                "–",
+                "-",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Single-dose regimen:",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "-",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Melatonin",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Sleeping problems in palliative care",
+        "Dosages": [
+          {
+            "Name": "Start with 1–2 mg (≤ 5 years) or 2–5 mg (> 5 years) at night",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Prolonged-release tablet 2 mg",
+                "Values": [
+                  "½–1",
+                  "½–1",
+                  "½–1",
+                  "½–1",
+                  "1–2",
+                  "1–2",
+                  "1–2",
+                  "1–2"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Methylprednisolone",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "See table for properties and equivalence doses of systemic corticosteroids",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/12/systemic-corticosteroids"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "2 mg/kg once a day (max. 60 mg/day)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "IM: 40 mg/mL ",
+              "Values": [
+                "0.2 mL",
+                "0.4 mL",
+                "0.6 mL",
+                "0.8 mL",
+                "1.2 mL",
+                "1.5 mL",
+                "1.5 mL",
+                "1.5 mL"
+              ]
+            },
+            {
+              "Name": "IM: 80 mg/mL",
+              "Values": [
+                "0.1 mL",
+                "0.2 mL",
+                "0.3 mL",
+                "0.4 mL",
+                "0.6 mL",
+                "0.75 mL",
+                "0.75 mL",
+                "0.75 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Metronidazole",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "7.5 mg/kg 3 times a day (max. 250 mg/dose)",
+          "Dose": "3 times a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "–",
+                "¼",
+                "½",
+                "½",
+                "¾ ",
+                "1",
+                "1",
+                "1"
+              ]
+            },
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "¼",
+                "¼",
+                "½",
+                "½",
+                "½ ",
+                "½ "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": [
+      {
+        "Name": "Giardiasis and amoebiasis",
+        "Dosages": [
+          {
+            "Name": "10 mg/kg 3 times a day (max. 500 mg/dose)",
+            "Dose": "3 times a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 250 mg",
+                "Values": [
+                  "–",
+                  "¼ ",
+                  "½ ",
+                  "½",
+                  "1",
+                  "1 ½ ",
+                  "2",
+                  "2"
+                ]
+              },
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "¼ ",
+                  "¼",
+                  "½ ",
+                  "¾ ",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Midazolam",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Convulsions",
+        "Dosages": [
+          {
+            "Name": "0.2 mg/kg (max. 10 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Intranasal, buccal 5 mg/mL",
+                "Values": [
+                  "–",
+                  "1.5 mg (0.3 mL)",
+                  "2.5 mg (0.5 mL)",
+                  "3.5 mg (0.7 mL)",
+                  "5 mg (1 mL)",
+                  "7 mg (1.5 mL)",
+                  "9 mg (1.2 mL)",
+                  "10 mg (2 mL)"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "0.2 mg/kg (max. 10 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IM: 1 mg/mL",
+                "Values": [
+                  "–",
+                  "1.5 mg (1.5 mL)",
+                  "2.5 mg (2.5 mL)",
+                  "3.5 mg (3.5 mL)",
+                  "5 mg (5 mL)",
+                  "7 mg (7 mL)",
+                  "9 mg (9 mL)",
+                  "10 mg (10 mL)"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "0.15 mg/kg (max. 7.5 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: 1 mg/mL",
+                "Values": [
+                  "–",
+                  "1.2 mg (1.2 mL)",
+                  "1.8 mg (1.8 mL)",
+                  "2.5 mg (2.5 mL)",
+                  "4 mg (4 mL)",
+                  "5 mg (5 mL)",
+                  "7 mg (7 mL)",
+                  "7.5 mg (7.5 mL)"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Sedation, severe pain (trauma, burns)",
+        "Dosages": [
+          {
+            "Name": "0.2 mg/kg (max. 10 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "Intranasal, buccal 5 mg/mL",
+                "Values": [
+                  "–",
+                  "1.5 mg (0.3 mL)",
+                  "2.5 mg (0.5 mL)",
+                  "3.5 mg (0.7 mL)",
+                  "5 mg (1 mL)",
+                  "7 mg (1.5 mL)",
+                  "9 mg (1.2 mL)",
+                  "10 mg (2 mL)"
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "0.1 mg/kg (max. 7.5 mg/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: 1 mg/mL",
+                "Values": [
+                  "–",
+                  "0.8 mg (0.8 mL)",
+                  "1.2 mg (1.2 mL)",
+                  "1.7 mg (1.7 mL)",
+                  "2.5 mg (2.5 mL)",
+                  "3.5 mg (3.5 mL)",
+                  "4.5 mg (4.5 mL)",
+                  "6 mg (6 mL)"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Mifepristone",
+    "Note": {
+      "Text": "see table for medical ",
+      "Link": {
+        "Title": "abortion",
+        "Path": "tables/8/125table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Misoprostol",
+    "Note": {
+      "Text": "see table for medical ",
+      "Link": {
+        "Title": "abortion",
+        "Path": "tables/8/125table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Mometasone",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "see table for inhaled ",
+      "Link": {
+        "Title": "corticosteroids",
+        "Path": "tables/11/139table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Morphine",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Calculate exact dose based on the child’s body weight. Oral: first dose 0.4 mg/kg (max. 20 mg/dose), then 0.2 mg/kg every 4–6 h; increase if necessary for severe pain. IM: first dose 0.2 mg/kg, then 0.1 mg/kg every 4–6 h (max. 15 mg/day) IV: first dose 0.1 mg/kg, then 0.05 mg/kg every 4–6 h (max. 15 mg/day)"
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Naloxone",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "10 µg/kg repeat every 5 minutes if required (max. 400 µg/dose)",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IV/IM vial: 400 µg/1 mL",
+              "Values": [
+                "0.1 mL",
+                "0.2 mL",
+                "0.3 mL",
+                "0.4 mL",
+                "0.6 mL",
+                "0.9 mL",
+                "1 mL",
+                "1 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Nitrofurantoin",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1.5 mg/kg 4 times a day (max. 400 mg/day)",
+          "Dose": "4 times a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 25 mg/5 mL",
+              "Values": [
+                "1.2 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "10 mL",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "¼ ",
+                "½ ",
+                "½ ",
+                "¾ ",
+                "¾–1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ofloxacin",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Epididymo-orchitis",
+        "Dosages": [
+          {
+            "Name": "300 mg twice a day",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 300 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Omeprazole",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1 mg/kg up to 40 mg once a day",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 10 mg",
+              "Values": [
+                "½ ",
+                "½ ",
+                "1",
+                "1",
+                "2",
+                "2",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 20 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "1–2",
+                "1–2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ondansetron",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "not advised for children < 6 months"
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Persistent vomiting",
+        "Dosages": [
+          {
+            "Name": "0.15 mg/kg single dose (max. 8 mg/dose)",
+            "Dose": "as single dose",
+            "Formulations": [
+              {
+                "Name": "Syrup 4 mg/5 mL",
+                "Values": [
+                  "–",
+                  "–",
+                  "2.5 mL",
+                  "5 mL",
+                  "5 mL",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Tablet 4 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "½ ",
+                  "1",
+                  "1",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              },
+              {
+                "Name": "IV: 2 mg/mL",
+                "BackColor": "pink",
+                "Values": [
+                  "–",
+                  "–",
+                  "1 mL",
+                  "1.5 mL",
+                  "2 mL",
+                  "2.5 mL",
+                  "3 mL",
+                  "4 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Oxcarbazepine",
+    "Note": {
+      "Text": "Dosages according to the specialist antiepileptic treatment plan. For side-effects and monitoring,",
+      "Link": {
+        "Title": "see here",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Paracetamol (acetaminophen)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "10–15 mg/kg every 4–6 h (max. 60 mg/kg/day or 4 g/day)",
+          "Dose": "every 4-6 h",
+          "Formulations": [
+            {
+              "Name": "Syrup 120 mg/5 mL",
+              "Values": [
+                "1.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "7.5 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg",
+              "Values": [
+                "–",
+                "1",
+                "1",
+                "2",
+                "3",
+                "4",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "–",
+                "–",
+                "¼",
+                "½",
+                "½",
+                "1",
+                "1",
+                "1"
+              ]
+            },
+            {
+              "Name": "Suppository 100 mg",
+              "Values": [
+                "–",
+                "1",
+                "1",
+                "1",
+                "-",
+                "-",
+                "-",
+                "-"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Paraffin oil",
+    "Note": {
+      "Text": "DO NOT give paraffin oil to children < 6 years and children at risk of aspiration"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "Once (at night) or twice a day",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Oral liquid ",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "5 mL",
+                "5 mL",
+                "7.5 mL",
+                "7.5 mL",
+                "7.5 mL"
+              ]
+            },
+            {
+              "Name": "Emulsion 475 mg/mL",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "10 mL",
+                "10 mL",
+                "15 mL",
+                "15 mL",
+                "15 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Benzathine benzylpenicillin (Benzathine penicillin G)",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "for IM injection only; DO NOT administer by IV injection"
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "< 30 kg: 600 000 U; \n> 30 kg: 1 200 000 U, single dose",
+          "Dose": "as single dose",
+          "Formulations": [
+            {
+              "Name": "IM: vial of 1 200 000 U mixed with 4 mL sterile water",
+              "Values": [
+                "2 mL",
+                "2 mL",
+                "2 mL",
+                "2 mL",
+                "2 mL",
+                "4 mL",
+                "4 mL",
+                "4 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Phenoxymethyl-penicillin (Penicillin V)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "25 mg/kg twice a day (max. 3 g/day)",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 250 mg/5 mL",
+              "Values": [
+                "2.5 mL",
+                "2.5 mL",
+                "5 mL",
+                "5 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 250 mg",
+              "Values": [
+                "–",
+                "–",
+                "1",
+                "1",
+                "2",
+                "2",
+                "4",
+                "4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Phenobarbital",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "For dosages and dosage intervals in newborns up to 4.5 kg",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "info/11/enteral-parenteral-drugs"
+      }
+    },
+    "Note2": {
+      "Text": "Antiepileptic maintenance treatment: dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Convulsions",
+        "Dosages": [
+          {
+            "Name": "15–20 mg/kg (max. 1 g/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: 200 mg/mL",
+                "Values": [
+                  "0.4 mL*",
+                  "0.6 mL",
+                  "1.0 mL",
+                  "1.5 mL",
+                  "2 mL",
+                  "3.0 mL",
+                  "4 mL",
+                  "5 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Phenytoin",
+    "BackColor": "pink",
+    "BottomNotes": true,
+    "Note": {
+      "Text": "Antiepileptic maintenance treatment: dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Status epilepticus",
+        "Dosages": [
+          {
+            "Name": "20 mg/kg (max. 1.5 g/dose)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: 250 mg/5 mL",
+                "Values": [
+                  "-",
+                  "3 mL",
+                  "5 mL",
+                  "7 mL",
+                  "10 mL",
+                  "14 mL",
+                  "18 mL",
+                  "25 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Polyethylene glycol",
+    "Note": {
+      "Text": "not advised for children < 6 months."
+    },
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Constipation",
+        "Dosages": [
+          {
+            "Name": "0.2–0.8 g/kg once a day (max. 17 g/day)",
+            "Dose": "once a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 500 mg/mL",
+                "Values": [
+                  "–",
+                  "5–8 mL",
+                  "10 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Oral preparation 4 g",
+                "Values": [
+                  "–",
+                  "½ ",
+                  "1",
+                  "2 ",
+                  "2",
+                  "3",
+                  "3–4",
+                  "3–4"
+                ]
+              },
+              {
+                "Name": "Oral preparation 10 g",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "½ ",
+                  "1",
+                  "1–1½ ",
+                  "1–2",
+                  "1–2"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Disimpaction",
+        "Dosages": [
+          {
+            "Name": "0.5–0.75 g/kg twice a day (max. 17 g/day)",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Syrup 500 mg/mL",
+                "Values": [
+                  "–",
+                  "20 mL",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Oral preparation 4 g",
+                "Values": [
+                  "–",
+                  "2",
+                  "3",
+                  "4",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              },
+              {
+                "Name": "Oral preparation 10 g",
+                "Values": [
+                  "–",
+                  "1",
+                  "1½ ",
+                  "2",
+                  "–",
+                  "–",
+                  "–",
+                  "–"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Prednisolone",
+    "Note": {
+      "Text": "See table for properties and equivalence doses of systemic corticosteroids",
+      "Link": {
+        "Title":"(see here)",
+        "Path": "info/12/systemic-corticosteroids"
+      }
+    },
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "1 mg/kg twice a day",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Syrup 5 mg/mL",
+              "Values": [
+                "0.8 mL",
+                "1.6 mL",
+                "2.5 mL",
+                "3.5 mL",
+                "5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 5 mg",
+              "Values": [
+                "1",
+                "1–2",
+                "2",
+                "3",
+                "5",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 25 mg",
+              "Values": [
+                "–",
+                "–",
+                "½ ",
+                "½ ",
+                "1",
+                "1–1½ ",
+                "1½–2",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Progesterone",
+    "Note": {
+      "Text": "see table for ",
+      "Link": {
+        "Title": "contraception",
+        "Path": "tables/8/119table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Promethazine",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "0.5 mg/kg the night before or 1–2 h before travel",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Tablet 10 mg",
+              "Values": [
+                "–",
+                "–",
+                "½",
+                "1",
+                "1",
+                "1½",
+                "-",
+                "-"
+              ]
+            },
+            {
+              "Name": "Tablet 25 mg",
+              "Values": [
+                "–",
+                "–",
+                "-",
+                "-",
+                "¼",
+                "¾",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Propranolol",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Prevention of migraine",
+        "Dosages": [
+          {
+            "Name": "0.3 mg/kg 3 times a day. Increase up to 0.5 mg/kg 3 times a day if required (max. 4 mg/kg/day)",
+            "Dose": "3 times a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 20 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "¼",
+                  "½",
+                  "½",
+                  "¾",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Pyrazinamide",
+    "Note": {
+      "Text": "see table for TB ",
+      "Link": {
+        "Title": "treatment",
+        "Path": "tables/11/149table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Rifampicin",
+    "Note": {
+      "Text": "see table for TB ",
+      "Link": {
+        "Title": "treatment",
+        "Path": "tables/11/149table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Salbutamol",
+    "BackColor": "lightblue",
+    "BottomNotes": true,
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "2–10 puffs according to age and severity",
+          "Link": {
+            "Title": "(see dosage)",
+            "Path": "7/life-threatening-severe-exacerbation"
+          },
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Metered dose inhaler: 100 μg/dose",
+              "Values": [
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage",
+                "See dosage"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "< 20 kg: 2.5 mg \n≥ 20 kg: 5 mg",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Solution for nebulizer: 5 mg/mL",
+              "Values": [
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "0.5 mL",
+                "1 mL",
+                "1 mL",
+                "1 mL",
+                "1 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Salmeterol + inhaled corticosteroid",
+    "BackColor": "lightblue",
+    "Note": {
+      "Text": "see table for inhaled corticosteroids + long-acting beta2-agonists ",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/11/140table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Senna",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "Once a day",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Syrup 7.5 mg/5 mL",
+              "Values": [
+                "–",
+                "–",
+                " 3 mL",
+                "3 mL",
+                "5 mL",
+                "10 mL",
+                "10 mL",
+                "10 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Sorbitol",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "2 mL/kg once a day (max. 60 mL/dose)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Oral solution 70%",
+              "Values": [
+                "–",
+                "–",
+                "25 mL",
+                "35 mL",
+                "50 mL",
+                "60 mL",
+                "60 mL",
+                "60 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Streptomycin",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "see table for TB ",
+      "Link": {
+        "Title": "treatment",
+        "Path": "tables/11/149table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Tetracycline",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Severe acne",
+        "Dosages": [
+          {
+            "Name": "500 mg twice a day",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "STIs with chlamydia",
+        "Dosages": [
+          {
+            "Name": "500 mg 4 times a day",
+            "Dose": "4 times a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Tinidazole",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg once a day (max. 2 g/day)",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 500 mg",
+              "Values": [
+                "½ ",
+                "1",
+                "1",
+                "1½",
+                "2–3",
+                "3–4",
+                "4",
+                "4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Topiramate",
+    "Note": {
+      "Text": "Dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring ",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Ulipristal acetate",
+    "Note": {
+      "Text": "see table for emergency ",
+      "Link": {
+        "Title": "contraception",
+        "Path": "tables/8/120table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Valaciclovir",
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Genital herpes",
+        "Dosages": [
+          {
+            "Name": "500 mg twice a day",
+            "Dose": "twice a day",
+            "Formulations": [
+              {
+                "Name": "Tablet 500 mg",
+                "Values": [
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "–",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Valproic acid",
+    "BackColor": "pink",
+    "Note": {
+      "Text": "Antiepileptic maintenance treatment: dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "BottomNotes": true,
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Status epilepticus",
+        "Dosages": [
+          {
+            "Name": "40 mg/kg (max. 3 g/day)",
+            "Dose": "",
+            "Formulations": [
+              {
+                "Name": "IV: 100 mg/mL",
+                "Values": [
+                  "1.5 mL",
+                  "3 mL",
+                  "5 mL",
+                  "7 mL",
+                  "10 mL",
+                  "14 mL",
+                  "18 mL",
+                  "25 mL"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Vigabatrin",
+    "Note": {
+      "Text": "Dosages according to specialist antiepileptic treatment plan. For side-effects and monitoring",
+      "Link": {
+        "Title": "(see here)",
+        "Path": "tables/6/79table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Vitamin A",
+    "BottomNotes": true,
+    "DefaultDisease": null,
+    "Diseases": [
+      {
+        "Name": "Measles",
+        "Dosages": [
+          {
+            "Name": "Once a day for 2 days",
+            "Dose": "once a day",
+            "Formulations": [
+              {
+                "Name": "Capsule 50 000 IU",
+                "Values": [
+                  "1",
+                  "2",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4",
+                  "4"
+                ]
+              },
+              {
+                "Name": "Capsule 100 000 IU",
+                "Values": [
+                  "½ ",
+                  "1",
+                  "2",
+                  "2",
+                  "2",
+                  "2",
+                  "2",
+                  "2"
+                ]
+              },
+              {
+                "Name": "Capsule 200 000 IU",
+                "Values": [
+                  "–",
+                  "½ ",
+                  "1",
+                  "1",
+                  "1",
+                  "1",
+                  "1",
+                  "1"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Vitamin D (Cholecalciferol)",
+    "Note": {
+      "Text": "See",
+      "Link": {
+        "Title": "here",
+        "Path": "info/4/vitamin-d"
+      }
+    },
+    "Note2": {
+      "Text": " or",
+      "Link": {
+        "Title": "here",
+        "Path": "tables/6/69table"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Vitamin K (Phytomenadione)",
+    "Note": {
+      "Text": "See ",
+      "Link": {
+        "Title": "here",
+        "Path": "tables/11/138table-vtamin-k"
+      }
+    },
+    "DefaultDisease": null,
+    "Diseases": []
+  },
+  {
+    "Name": "Zinc sulphate",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "20 mg once a day",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 20 mg",
+              "Values": [
+                "–",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  }
+]

@@ -1,0 +1,9 @@
+Release list file structure:
+	[<Release note file names>]
+	
+Release notes file structure(file is named after release version, may be followed by "(current)"):
+	Title
+	Date (in DD/MM/YYYY format)
+	Version Number (in MAJOR.MINOR.PATCH format)
+	Summary
+	[Notes]

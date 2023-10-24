@@ -1,0 +1,190 @@
+[
+  {
+    "Name": "Ampicillin",
+    "BackColor": "pink",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg \nFirst week of life: every 12 h \nWeeks 2–4 of life: every 8 h",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IV/IM: vial 250 mg mixed with 2.3 mL sterile water to (250 mg/2.5 mL)",
+              "Values": [
+                "1–1.2 mL",
+                "1.2–1.5 mL",
+                "1.5–1.7 mL",
+                "1.7–2 mL",
+                "2–2.2 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Benzylpenicillin (Penicillin G)",
+    "BackColor": "pink",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 000 U/kg/dose \nFirst week of life: every 12 h \nWeeks 2–4 of life: every 8 h",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IV/IM: vial 600 mg (1 000 000 U) mixed with 1.6 mL sterile water (500 000 U/mL)",
+              "Values": [
+                "0.25 mL",
+                "0.3 mL",
+                "0.35 mL",
+                "0.4 mL",
+                "0.45 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Cefotaxime",
+    "BackColor": "pink",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "50 mg/kg \nFirst week of life: every 12 h \nWeeks 2–4 of life: every 8 h",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IV/IM: vial 250 mg to dissolve in 1 mL",
+              "Values": [
+                "0.5 mL",
+                "0.6 mL",
+                "0.7 mL",
+                "0.8 mL",
+                "0.9 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Cloxacillin",
+    "BackColor": "pink",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "25(–50) mg/kg \nFirst week of life: every 12 h \nWeeks 2–4 of life: every 8 h",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IV/IM: vial 250 mg mixed with 1.3 mL sterile water (250 mg/1.5 mL)",
+              "Values": [
+                "0.3 mL",
+                "0.4 mL",
+                "0.5 mL",
+                "0.5–0.6 mL",
+                "0.6 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Phenobarbital",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "IV: Loading dose: 20 mg/kg. If convulsions persist, give further doses of phenobarbital 10 mg/kg up to maximum of 40 mg/kg.",
+          "Dose": "",
+          "BackColor": "pink",
+          "Formulations": [
+            {
+              "Name": "IM/IV: vial 200 mg/mL diluted with 4 mL sterile water",
+              "Values": [
+                "Calculate the exact dose based on the child’s body weight.",
+                "Calculate the exact dose based on the child’s body weight.",
+                "Calculate the exact dose based on the child’s body weight.",
+                "Calculate the exact dose based on the child’s body weight.",
+                "Calculate the exact dose based on the child’s body weight."
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "Maintenance dose: 5 mg/kg",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Tablet 30 mg",
+              "Values": [
+                "½ ",
+                "½ ",
+                "½ ",
+                "¾ ",
+                "¾ "
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Vitamin K (Phytomenadione)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "3 doses of 2 mg orally at birth, at 4 to 6 days, and at 4 to 6 weeks",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Vial 1 mg/0.5 mL or 1 mg/mL to be used orally",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "1 mg after birth Preterm newborn: 0.4 mg/kg",
+          "BackColor": "pink",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "IM: vial 1 mg/0.5 mL or 1 mg/mL",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  }
+]

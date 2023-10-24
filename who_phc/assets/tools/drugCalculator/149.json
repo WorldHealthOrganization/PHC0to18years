@@ -1,0 +1,53 @@
+[
+    {
+        "Name": "Isoniazid (H)",
+        "Note": {
+            "Text": "*The higher end of the range for isoniazid dose applies to younger children; the lower end of the dosing range applies to older children"
+        },
+        "DefaultDisease": null,
+        "Diseases": [],
+        "Route": "Oral",
+        "ModeOfAction": "Bactericidal",
+        "DailyDose": "10 (7–15)*",
+        "MaximumDose": "300"
+      },
+      {
+        "Name": "Rifampicin (R)",
+        "DefaultDisease": null,
+        "Diseases": [],
+        "Route": "Oral",
+        "ModeOfAction": "Bactericidal",
+        "DailyDose": "15 (10–20)",
+        "MaximumDose": "600"
+      },
+      {
+        "Name": "Pyrazinamide (Z)",
+        "DefaultDisease": null,
+        "Diseases": [],
+        "Route": "Oral",
+        "ModeOfAction": "Bactericidal",
+        "DailyDose": "35 (30–40)",
+        "MaximumDose": "-"
+      },
+      {
+        "Name": "Ethambutol (E)",
+        "DefaultDisease": null,
+        "Diseases": [],
+        "Route": "Oral",
+        "ModeOfAction": "Bacteriostatic",
+        "DailyDose": "20 (15–25)",
+        "MaximumDose": "-"
+      },
+      {
+        "Name": "Streptomycin (S) only for multidrug-resistant tuberculosis",
+        "Note": {
+            "Text": "IM: intramuscular"
+        },
+        "DefaultDisease": null,
+        "Diseases": [],
+        "Route": "IM",
+        "ModeOfAction": "Bactericidal",
+        "DailyDose": "15 (12–18)",
+        "MaximumDose": "2000"
+      }
+]

@@ -1,0 +1,39 @@
+.info-chapter-container,
+.warning-box-container,
+.warning-help-box-container,
+.help-hospital-box-container,
+.warning-help-hospital-box-container {
+  background-color: #f6f0e0 !important;
+  padding: 5px !important;
+  box-sizing: border-box;
+}
+
+table {
+  display: block;
+  overflow-x: auto;
+  margin: 4px;
+  border: none !important;
+  box-sizing: border-box;
+}
+
+tbody {
+  width: calc(100% - 8px);
+  position: relative;
+  display: block;
+}
+
+li {
+  padding-inline-start: 5px;
+}
+
+ul {
+  padding-inline-start: 10px;
+}
+
+ul:has(.info-chapter, .help-hospital-box, .warning-box, .warning-help-box, .warning-help-hospital-box) {
+  padding-inline-start: 30px !important;
+}
+
+.table-text {
+  color: black;
+}

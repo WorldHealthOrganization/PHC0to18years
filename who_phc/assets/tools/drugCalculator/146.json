@@ -1,0 +1,131 @@
+[
+  {
+    "Name": "Lopinavir/ritonavir (LPV/RTV)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: (LPV 80 mg + RTV 20 mg)/mL",
+              "Values": [
+                "0.6 mL",
+                "0.8 mL",
+                "1 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Lamivudine (3TC)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL ",
+              "Values": [
+                "0.5 mL",
+                "0.8 mL",
+                "1 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Zidovudine (AZT)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "-",
+          "Dose": "",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL",
+              "Values": [
+                "1 mL",
+                "1.5 mL",
+                "2 mL"
+              ]
+            }  
+          ]
+        }  
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Nevirapine (NVP)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL ",
+              "Values": [
+                "1.5 mL",
+                "2 mL",
+                "3 mL"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Raltegravir (RAL)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day < 1 week",
+          "Formulations": [
+            {
+              "Name": "10 mg/mL Oral granules for suspension (100 mg/sachet)",
+              "Values": [
+                "0.4 mL",
+                "0.5 mL",
+                "0.7 mL"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "",
+          "Dose": "twice a day > 1 week",
+          "Formulations": [
+            {
+              "Name": "10 mg/mL Oral granules for suspension (100 mg/sachet)",
+              "Values": [
+                "0.8 mL",
+                "1 mL",
+                "1.5 mL"
+              ]
+            }  
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  }
+]

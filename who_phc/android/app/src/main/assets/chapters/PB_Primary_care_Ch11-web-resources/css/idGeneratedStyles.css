@@ -1,0 +1,1530 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+table.No-Table-Style {
+	border-collapse:collapse;
+	border-color:#000000;
+	border-style:solid;
+	border-width:1px;
+	margin-bottom:-4px;
+	margin-top:4px;
+}
+td.No-Table-Style {
+	border-left-width:1px;
+	border-left-style:solid;
+	border-left-color:#000000;
+	border-top-width:1px;
+	border-top-style:solid;
+	border-top-color:#000000;
+	border-right-width:1px;
+	border-right-style:solid;
+	border-right-color:#000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#000000;
+	padding-top:4px;
+	padding-bottom:4px;
+	padding-left:4px;
+	padding-right:4px;
+	vertical-align:top;
+}
+p.an4-strap {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Bold Condensed", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.an4-table-top-kg {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Bold Condensed", sans-serif;
+	font-size:5px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.body {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Medium Condensed", sans-serif;
+	font-size:8px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-align-last:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.head-A {
+	-epub-hyphens:none;
+	color:#009367;
+	font-family:"Helvetica Black Condensed", sans-serif;
+	font-size:18px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.056;
+	margin-bottom:1px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.head-B {
+	-epub-hyphens:none;
+	color:#f37021;
+	font-family:"Helvetica Black Condensed", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1;
+	margin-bottom:3px;
+	margin-left:26px;
+	margin-right:0;
+	margin-top:6px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-26px;
+	text-transform:none;
+	widows:1;
+}
+p.head-T3 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Bold Condensed Oblique", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.286;
+	margin-bottom:3px;
+	margin-left:34px;
+	margin-right:0;
+	margin-top:9px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-34px;
+	text-transform:none;
+	widows:1;
+}
+p.table-note {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Medium Condensed", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:9px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.table-note-indented {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Medium Condensed", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:9px;
+	margin-left:9px;
+	margin-right:0;
+	margin-top:3px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:-9px;
+	text-transform:none;
+	widows:1;
+}
+p.table-text-2 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Medium Condensed", sans-serif;
+	font-size:6px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.table-top {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"Helvetica Bold Condensed", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.154;
+	margin-bottom:1px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.an-4-table-tops {
+	color:#f37021;
+	font-size:6px;
+}
+span.body-bold {
+	font-style:normal;
+	font-weight:bold;
+}
+span.body-bold-red {
+	color:#d71920;
+	font-style:normal;
+	font-weight:bold;
+}
+span.body-medium-italic {
+	font-style:oblique;
+	font-weight:normal;
+}
+span.table-superscript {
+	vertical-align:super;
+}
+table.TableOverride-1 {
+	border-collapse:collapse;
+}
+td.CellOverride-1 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:middle;
+}
+td.CellOverride-2 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-3 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:4px;
+}
+td.CellOverride-4 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-5 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-6 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-7 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-8 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-9 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-10 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-11 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+	vertical-align:top;
+}
+td.CellOverride-12 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:4px;
+}
+td.CellOverride-13 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-14 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-15 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-16 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-17 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-18 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.CellOverride-19 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-20 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:0px;
+}
+td.CellOverride-21 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:0px;
+	padding-right:3px;
+}
+td.CellOverride-22 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-23 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-24 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-25 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-26 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.CellOverride-27 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.CellOverride-28 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:4px;
+}
+td.CellOverride-29 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:4px;
+}
+td.CellOverride-30 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:4px;
+}
+td.CellOverride-31 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	vertical-align:top;
+}
+td.CellOverride-32 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-33 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.CellOverride-34 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+}
+td.CellOverride-35 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-36 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+}
+td.CellOverride-37 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:1px;
+}
+td.CellOverride-38 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:1px;
+}
+td.CellOverride-39 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:0px;
+}
+td.CellOverride-40 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-41 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:4px;
+}
+td.CellOverride-42 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:0px;
+}
+td.CellOverride-43 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-44 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-45 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:0px;
+	padding-top:3px;
+}
+td.CellOverride-46 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:1px;
+}
+td.CellOverride-47 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-48 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	vertical-align:middle;
+}
+td.CellOverride-49 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:6px;
+	padding-right:0px;
+}
+td.CellOverride-50 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-51 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-52 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:4px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:3px;
+	vertical-align:middle;
+}
+td.CellOverride-53 {
+	background-color:#fcc198;
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-54 {
+	background-color:#fcc198;
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	vertical-align:middle;
+}
+td.CellOverride-55 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	vertical-align:middle;
+}
+td.CellOverride-56 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:3px;
+	vertical-align:top;
+}
+td.CellOverride-57 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+	vertical-align:middle;
+}
+td.CellOverride-58 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+	vertical-align:top;
+}
+td.CellOverride-59 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:3px;
+	padding-right:0px;
+	vertical-align:top;
+}
+td.CellOverride-60 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-left:0px;
+	padding-right:0px;
+	vertical-align:middle;
+}
+td.CellOverride-61 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:3px;
+}
+td.CellOverride-62 {
+	border-bottom-color:#f37021;
+	border-bottom-width:0px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:0px;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:3px;
+	padding-top:0px;
+}
+td.CellOverride-63 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:3px;
+	padding-right:3px;
+}
+td.CellOverride-64 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:3px;
+	padding-left:0px;
+	padding-right:0px;
+}
+td.CellOverride-65 {
+	border-bottom-color:#f37021;
+	border-bottom-width:1px;
+	border-left-width:0px;
+	border-right-width:0px;
+	border-top-color:#f37021;
+	border-top-width:1px;
+	padding-bottom:0px;
+	padding-left:3px;
+	padding-right:3px;
+}
+p.ParaOverride-1 {
+	text-align:center;
+}
+p.ParaOverride-2 {
+	margin-top:3px;
+}
+p.ParaOverride-3 {
+	margin-top:3px;
+	text-align:center;
+}
+p.ParaOverride-4 {
+	margin-top:4px;
+}
+p.ParaOverride-5 {
+	margin-bottom:0px;
+	margin-top:6px;
+}
+p.ParaOverride-6 {
+	margin-bottom:0px;
+	margin-top:0px;
+}
+p.ParaOverride-7 {
+	margin-top:0px;
+	page-break-after:always;
+}
+p.ParaOverride-8 {
+	margin-top:6px;
+}
+p.ParaOverride-9 {
+	text-align:left;
+}
+p.ParaOverride-10 {
+	margin-top:0px;
+}
+p.ParaOverride-11 {
+	margin-top:14px;
+}
+span.CharOverride-1 {
+	color:#f37021;
+}
+span.CharOverride-2 {
+	font-size:7px;
+	font-style:oblique;
+	font-weight:bold;
+}
+span.CharOverride-3 {
+	color:#ec008c;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-4 {
+	color:#00aeef;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	font-size:5px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-7 {
+	font-style:oblique;
+	font-weight:bold;
+}
+span.CharOverride-8 {
+	font-style:oblique;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	font-size:7px;
+}
+span.CharOverride-10 {
+	font-variant:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-11 {
+	font-size:6px;
+}
+span.CharOverride-12 {
+	font-size:3px;
+	vertical-align:super;
+}
+span.CharOverride-13 {
+	font-size:58%;
+	vertical-align:super;
+}
+span.CharOverride-14 {
+	color:#f37021;
+	font-size:6px;
+}
+span.CharOverride-15 {
+	color:#f37021;
+	font-size:3px;
+	vertical-align:super;
+}
+span.CharOverride-16 {
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-17 {
+	color:#f37021;
+	font-size:6px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-18 {
+	color:#f37021;
+	font-size:5px;
+}
+p._idGenParaOverride-1 {
+	page-break-after:always;
+}
+span._idGenCharOverride-1 {
+	font-size:58%;
+}
+td._idGenCellOverride-1 {
+	border-bottom-color:#f37021;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+}
+td._idGenCellOverride-2 {
+	border-bottom-color:#f37021;
+	border-bottom-style:solid;
+	border-bottom-width:0px;
+}
+col._idGenTableRowColumn-1 {
+	width:56px;
+}
+col._idGenTableRowColumn-2 {
+	width:60px;
+}
+col._idGenTableRowColumn-3 {
+	width:57px;
+}
+col._idGenTableRowColumn-4 {
+	width:24px;
+}
+tr._idGenTableRowColumn-5 {
+	min-height:13px;
+}
+tr._idGenTableRowColumn-6 {
+	min-height:18px;
+}
+tr._idGenTableRowColumn-7 {
+	min-height:41px;
+}
+tr._idGenTableRowColumn-8 {
+	min-height:27px;
+}
+tr._idGenTableRowColumn-9 {
+	min-height:9px;
+}
+tr._idGenTableRowColumn-10 {
+	min-height:23px;
+}
+tr._idGenTableRowColumn-11 {
+	min-height:34px;
+}
+tr._idGenTableRowColumn-12 {
+	min-height:26px;
+}
+tr._idGenTableRowColumn-13 {
+	min-height:20px;
+}
+tr._idGenTableRowColumn-14 {
+	min-height:16px;
+}
+tr._idGenTableRowColumn-15 {
+	min-height:12px;
+}
+tr._idGenTableRowColumn-16 {
+	min-height:28px;
+}
+tr._idGenTableRowColumn-17 {
+	min-height:33px;
+}
+tr._idGenTableRowColumn-18 {
+	min-height:30px;
+}
+tr._idGenTableRowColumn-19 {
+	min-height:11px;
+}
+tr._idGenTableRowColumn-20 {
+	min-height:15px;
+}
+tr._idGenTableRowColumn-21 {
+	min-height:8px;
+}
+tr._idGenTableRowColumn-22 {
+	min-height:38px;
+}
+tr._idGenTableRowColumn-23 {
+	min-height:19px;
+}
+tr._idGenTableRowColumn-24 {
+	min-height:10px;
+}
+col._idGenTableRowColumn-25 {
+	width:38px;
+}
+col._idGenTableRowColumn-26 {
+	width:78px;
+}
+col._idGenTableRowColumn-27 {
+	width:76px;
+}
+col._idGenTableRowColumn-28 {
+	width:34px;
+}
+tr._idGenTableRowColumn-29 {
+	min-height:14px;
+}
+col._idGenTableRowColumn-30 {
+	width:118px;
+}
+col._idGenTableRowColumn-31 {
+	width:35px;
+}
+col._idGenTableRowColumn-32 {
+	width:206px;
+}
+col._idGenTableRowColumn-33 {
+	width:157px;
+}
+col._idGenTableRowColumn-34 {
+	width:92px;
+}
+col._idGenTableRowColumn-35 {
+	width:77px;
+}
+col._idGenTableRowColumn-36 {
+	width:194px;
+}
+col._idGenTableRowColumn-37 {
+	width:113px;
+}
+col._idGenTableRowColumn-38 {
+	width:171px;
+}
+col._idGenTableRowColumn-39 {
+	width:58px;
+}
+col._idGenTableRowColumn-40 {
+	width:89px;
+}
+col._idGenTableRowColumn-41 {
+	width:65px;
+}
+col._idGenTableRowColumn-42 {
+	width:150px;
+}
+col._idGenTableRowColumn-43 {
+	width:75px;
+}
+col._idGenTableRowColumn-44 {
+	width:110px;
+}
+col._idGenTableRowColumn-45 {
+	width:179px;
+}
+col._idGenTableRowColumn-46 {
+	width:106px;
+}
+col._idGenTableRowColumn-47 {
+	width:64px;
+}
+col._idGenTableRowColumn-48 {
+	width:42px;
+}
+col._idGenTableRowColumn-49 {
+	width:124px;
+}
+col._idGenTableRowColumn-50 {
+	width:44px;
+}
+col._idGenTableRowColumn-51 {
+	width:27px;
+}
+col._idGenTableRowColumn-52 {
+	width:84px;
+}
+col._idGenTableRowColumn-53 {
+	width:30px;
+}
+tr._idGenTableRowColumn-54 {
+	min-height:48px;
+}
+col._idGenTableRowColumn-55 {
+	width:50px;
+}
+col._idGenTableRowColumn-56 {
+	width:93px;
+}
+col._idGenTableRowColumn-57 {
+	width:98px;
+}
+col._idGenTableRowColumn-58 {
+	width:33px;
+}
+col._idGenTableRowColumn-59 {
+	width:54px;
+}
+col._idGenTableRowColumn-60 {
+	width:88px;
+}
+col._idGenTableRowColumn-61 {
+	width:187px;
+}
+col._idGenTableRowColumn-62 {
+	width:120px;
+}
+#_idContainer002, #_idContainer009, #_idContainer017 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:4.38%;
+}
+#_idContainer003 {
+	display:inline-block;
+	padding:103.18% 0% 0% 0%;
+	position:relative;
+	width:8.57%;
+}
+#_idContainer004 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:32.19%;
+}
+#_idContainer005, #_idContainer016 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:6.67%;
+}
+#_idContainer006 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:8.69%;
+}
+#_idContainer007, #_idContainer029 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:4.19%;
+}
+#_idContainer008 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:33.33%;
+}
+#_idContainer010 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:14.29%;
+}
+#_idContainer011 {
+	display:inline-block;
+	padding:82.95% 0% 0% 0%;
+	position:relative;
+	width:4.19%;
+}
+#_idContainer012 {
+	display:inline-block;
+	padding:103.10% 0% 0% 0%;
+	position:relative;
+	width:6.33%;
+}
+#_idContainer013 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:8.76%;
+}
+#_idContainer014 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:18.48%;
+}
+#_idContainer015 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:8.74%;
+}
+#_idContainer018 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:12.19%;
+}
+#_idContainer019 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:4.05%;
+}
+#_idContainer020 {
+	display:inline-block;
+	padding:18.91% 0% 0% 0%;
+	position:relative;
+	width:15.71%;
+}
+#_idContainer021 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:16.07%;
+}
+#_idContainer022 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:13.14%;
+}
+#_idContainer023, #_idContainer024, #_idContainer035, #_idContainer038 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:6.67%;
+}
+#_idContainer025, #_idContainer034 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:9.71%;
+}
+#_idContainer026 {
+	display:inline-block;
+	padding:18.89% 0% 0% 0%;
+	position:relative;
+	width:32.38%;
+}
+#_idContainer027 {
+	display:inline-block;
+	padding:105.60% 0% 0% 0%;
+	position:relative;
+	width:11.90%;
+}
+#_idContainer028 {
+	display:inline-block;
+	padding:105.60% 0% 0% 0%;
+	position:relative;
+	width:6.79%;
+}
+#_idContainer030 {
+	display:inline-block;
+	padding:103.06% 0% 0% 0%;
+	position:relative;
+	width:6.67%;
+}
+#_idContainer031 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:8.95%;
+}
+#_idContainer032 {
+	display:inline-block;
+	padding:82.87% 0% 0% 0%;
+	position:relative;
+	width:3.71%;
+}
+#_idContainer033 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:14.19%;
+}
+#_idContainer036 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:20.19%;
+}
+#_idContainer037 {
+	display:inline-block;
+	padding:121.87% 0% 0% 0%;
+	position:relative;
+	width:4.38%;
+}
+#_idContainer039 {
+	display:inline-block;
+	padding:121.90% 0% 0% 0%;
+	position:relative;
+	width:38.57%;
+}
+#_idContainer040 {
+	display:inline-block;
+	padding:109.20% 0% 0% 0%;
+	position:relative;
+	width:13.71%;
+}
+#_idContainer041 {
+	display:inline-block;
+	padding:109.20% 0% 0% 0%;
+	position:relative;
+	width:9.14%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#fad5e5;
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-3 {
+	background-color:#c7eafb;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}

@@ -1,0 +1,816 @@
+[
+  {
+    "Name": "Zidovudine/lamivudine (AZT/3TC)",
+    "Subcategory": "Fixed-dose combinations",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Tablet AZT 60 mg + 3TC 30 mg",
+              "Values": [
+                "1",
+                "1.½",
+                "2",
+                "2½",
+                "3",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet AZT 300 mg + 3TC 150 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Zidovudine/lamivudine/nevirapine (AZT/3TC/NVP)",
+    "Subcategory": "Fixed-dose combinations",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Tablet: AZT 60 mg + 3TC 30 mg + NVP 50 mg",
+              "Values": [
+                "1",
+                "1.5",
+                "2",
+                "2½",
+                "3",
+                null,
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: AZT 300 mg + 3TC 150 mg + NVP 200 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Abacavir/lamivudine (ABC/3TC)",
+    "Subcategory": "Fixed-dose combinations",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day (once a day)",
+          "Formulations": [
+            {
+              "Name": "Tablet: d4T 60 mg + 3TC 30 mg ",
+              "Values": [
+                "1 (2)",
+                "1½ (3) ½ AM",
+                "2 (4)",
+                "2½ (5) 1 AM",
+                "3 (6)",
+                "– ",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: d4T 120 mg + 3TC 60 mg",
+              "Values": [
+                "½ (1)",
+                "(1½) 1 PM",
+                "1 (2)",
+                "1½ PM (2½)",
+                "1½ (3)",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: d4T 600 mg + 3TC 300 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "½ (1)",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Abacavir (ABC)",
+    "Subcategory": "Nucleoside reverse transcriptase inhibitors (NRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 20 mg/mL ",
+              "Values": [
+                "3 mL",
+                "4 mL",
+                "6 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 60 mg ",
+              "Values": [
+                "1",
+                "1½",
+                "2",
+                "2½",
+                "3",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 300 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet: 600 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Lamivudine (3TC)",
+    "Subcategory": "Nucleoside reverse transcriptase inhibitors (NRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL ",
+              "Values": [
+                "3 mL",
+                "4 mL",
+                "6 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 150 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet: 300 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Zidovudine (AZT)",
+    "Subcategory": "Nucleoside reverse transcriptase inhibitors (NRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL",
+              "Values": [
+                "6 mL",
+                "9 mL",
+                "12 mL",
+                "–",
+                "–",
+                "–",
+                "-"
+              ]
+            },
+            {
+              "Name": "Tablet: 60 mg",
+              "Values": [
+                "1",
+                "1½",
+                "2",
+                "2½",
+                "3",
+                "–",
+                "-"
+              ]
+            },
+            {
+              "Name": "Tablet: 300 mg",
+              "Values": [
+                "-",
+                "-",
+                "-",
+                "–",
+                "–",
+                "1",
+                "2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Emtricitabine (FTC)",
+    "Subcategory": "Nucleoside reverse transcriptase inhibitors (NRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet: 200 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Tenofovir disoproxil fumarate (TDF)",
+    "Subcategory": "Nucleotide reverse transcriptase inhibitors (NtRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet: 300 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Efavirenz (EFV)",
+    "Subcategory": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet: 200 mg",
+              "Values": [
+                "–",
+                "–",
+                "1",
+                "1½",
+                "1½",
+                "2",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 400 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            },
+            {
+              "Name": "Tablet: 600 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Nevirapine (NVP)",
+    "Subcategory": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 10 mg/mL ",
+              "Values": [
+                "5 mL",
+                "8 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 50 mg ",
+              "Values": [
+                "1",
+                "1½",
+                "2",
+                "2½",
+                "3",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet: 200 mg ",
+              "Values": [
+                "-",
+                "-",
+                "-",
+                "-",
+                "-",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Lopinavir/ritonavir (LPV/RTV)",
+    "Subcategory": "Protease inhibitors (PIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Liquid: 80 mg/20 mg/mL",
+              "Values": [
+                "1 mL",
+                "1½ mL",
+                "2 mL",
+                "2½ mL",
+                "3 mL",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg/25 mg",
+              "Values": [
+                "–",
+                "–",
+                "2 AM 1 PM",
+                "2",
+                "2",
+                "3",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 400 mg/100 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Pellets 40 mg/10 mg",
+              "Values": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "–",
+                "1"
+              ]
+            }
+          ]
+        }  
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Atazanavir (ATV)",
+    "Subcategory": "Protease inhibitors (PIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Capsule 100 mg ",
+              "Values": [
+                "–",
+                "–",
+                "2",
+                "2",
+                "2",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 200 mg",
+              "Values": [
+                "–",
+                "–",
+                "1",
+                "1",
+                "1",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Capsule 300 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Darunavir (DRV)",
+    "Subcategory": "Protease inhibitors (PIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 600 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "1",
+                "2"
+              ]
+            },
+            {
+              "Name": "Tablet 150 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "4",
+                "4",
+                "1",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 75 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "5",
+                "5",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        },
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 400 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "–"
+              ]
+            },
+            {
+              "Name": "Liquid 100 mg/mL",
+              "Values": [
+                "–",
+                "–",
+                "2½ mL",
+                "3.5 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            } 
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Ritonavir (RTV)",
+    "Subcategory": "Protease inhibitors (PIs)",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 25 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "2",
+                "2",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 50 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "1",
+                "1",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablet 100 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            },
+            {
+              "Name": "Liquid 80 mg/mL",
+              "Values": [
+                "–",
+                "–",
+                "½ mL",
+                "0.6 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Raltegravir (RAL)",
+    "Subcategory": "Integrase strand transfer inhibitors",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "twice a day",
+          "Formulations": [
+            {
+              "Name": "Tablets (chewable) 25 mg",
+              "Values": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "6",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablets (chewable) 100 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "1",
+                "1½",
+                "–",
+                "–"
+              ]
+            },
+            {
+              "Name": "Tablets (chewable) 400 mg",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "2"
+              ]
+            },
+            {
+              "Name": "Liquid 10 mg/mL (Oral granules for suspension: 100 mg/sachet)",
+              "Values": [
+                "3 mL",
+                "5 mL",
+                "8 mL",
+                "10 mL",
+                "–",
+                "–",
+                "–"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  },
+  {
+    "Name": "Dolutegravir (DTG)",
+    "Subcategory": "Integrase strand transfer inhibitors",
+    "DefaultDisease": {
+      "Name": "Default",
+      "Dosages": [
+        {
+          "Name": "",
+          "Dose": "once a day",
+          "Formulations": [
+            {
+              "Name": "Tablet 50 mg ",
+              "Values": [
+                "–",
+                "–",
+                "–",
+                "–",
+                "–",
+                "1",
+                "1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "Diseases": []
+  }
+]

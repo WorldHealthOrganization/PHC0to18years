@@ -1,0 +1,43 @@
+{
+  "title": "v0.1.0(current)",
+  "date": "30/05/2023",
+  "versionNumber": "0.1.0",
+  "summary": "Initial release. Implement basic functionality.",
+  "notes": [
+    {
+      "id": "1",
+      "type": "Feature",
+      "description": "Implement general layout: header, menu, pages, search modal"
+    },
+    {
+      "id": "2",
+      "type": "Feature",
+      "description": "Add Landing page, Home page, Tools page and Settings page"
+    },
+    {
+      "id": "3",
+      "type": "Feature",
+      "description": "Include 1-9 chapters"
+    },
+    {
+      "id": "4",
+      "type": "Feature",
+      "description": "Format images, tables, info-boxes for 1-5 chapters"
+    },
+    {
+      "id": "5",
+      "type": "Feature",
+      "description": "Implement navigation for 1-3 chapters"
+    },
+    {
+      "id": "6",
+      "type": "Feature",
+      "description": "Implement functionality of calculators:  BMI, Body surface area, Apgar score"
+    },
+    {
+      "id": "7",
+      "type": "Feature",
+      "description": "Implement settings functionality: font size changing, language changing"
+    }
+  ]
+}

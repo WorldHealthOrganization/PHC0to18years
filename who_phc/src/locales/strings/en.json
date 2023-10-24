@@ -1,0 +1,1382 @@
+{
+  "translation": {
+    "ChapterGeneral": {
+      "HelpIconText": "KEEP CHILD CALM - CALL FOR HELP - MONITOR VITAL SIGNS",
+      "HospitalIconText": "REFER URGENTLY TO HOSPITAL"
+    },
+    "HomePage": {
+      "Title": "Home page",
+      "LocalizationTest": "Change language"
+    },
+    "SearchModal": {
+      "Searching": "Searching...",
+      "NoResults": "No results",
+      "TypeSomething": "Type something to search..."
+    },
+    "SettingsPage": {
+      "PageTitle": "Settings",
+      "FontTitle": "Font size:",
+      "LanguageTitle": "Select language:",
+      "ButtonTitle": "Save "
+    },
+    "CounsellingBoxesPage": {
+      "Title": "Counselling boxes",
+      "Menu": {
+        "1": "1. Early childhood development",
+        "2": "2. Home treatment of common vaccine reactions",
+        "3": "3. Feeding recommendations",
+        "4": "4. Breast milk expression and storage",
+        "5": "5. Complementary feeding",
+        "6": "6. Infant formula feeding",
+        "7": "7. Healthy diet",
+        "8": "8. Caries prevention",
+        "9": "9. Sun protection",
+        "10": "10. Prevention of road traffic injuries",
+        "11": "11. Prevention of drowning",
+        "12": "12. Prevention of poisoning",
+        "13": "13. Prevention of falls",
+        "14": "14. Prevention of burns and scalds",
+        "15": "15. What children and adolescents can do for their mental health and well-being",
+        "16": "16. What caregivers can do for their child’s mental health and well-being",
+        "17": "17. Kangaroo mother care",
+        "18": "18. How to prevent sudden infant death",
+        "19": "19. Care of the newborn skin, nails and bathing",
+        "20": "20. How to treat an umbilical granuloma",
+        "21": "21. How to treat a nappy rash",
+        "22": "22. Home treatment of cough",
+        "23": "23. Home treatment of pneumonia",
+        "24": "24. Infection prevention control measures during home care of children with respiratory diseases",
+        "25": "25. Management of fever at home",
+        "26": "26. Home treatment of mouth lesions",
+        "27": "27. Home treatment of varicella",
+        "28": "28. Prevention and management of tick bites",
+        "29": "29. Home treatment of constipation",
+        "30": "30. Breath-holding spells",
+        "31": "31. Daytime wetting",
+        "32": "32. Personal hygiene for the penis and foreskin during treatment of balanitis",
+        "33": "33. Home treatment of atopic dermatitis",
+        "34": "34. Home treatment of impetigo",
+        "35": "35. First aid action plan for seizures",
+        "36": "36. Febrile seizures",
+        "37": "37. General safety for a child or adolescent with epilepsy and seizures",
+        "38": "38. Home treatment of a child with a head injury",
+        "39": "39. Managing pain at home",
+        "40": "40. Healthy sleep for children and adolescents",
+        "41": "41. Considerations in children and adolescents with diabetes",
+        "42": "42. Correct insulin injection technique"
+      },
+      "BoxHeaderTitle": "Counselling box",
+      "BoxTitle": {
+        "1": "Early childhood development",
+        "2": "Home treatment of common vaccine reactions",
+        "3": "Feeding recommendations",
+        "4": "Breast milk expression and storage",
+        "5": "Complementary feeding",
+        "6": "Infant formula feeding",
+        "7": "Healthy diet",
+        "8": "Caries prevention",
+        "9": "Sun protection",
+        "10": "Prevention of road traffic injuries",
+        "11": "Prevention of drowning",
+        "12": "Prevention of poisoning",
+        "13": "Prevention of falls",
+        "14": "Prevention of burns and scalds",
+        "15": "What children and adolescents can do for their mental health and well-being",
+        "16": "What caregivers can do for their child’s mental health and well-being",
+        "17": "Kangaroo mother care",
+        "18": "How to prevent sudden infant death",
+        "19": "Care of the newborn skin, nails and bathing",
+        "20": "How to treat an umbilical granuloma",
+        "21": "How to treat a nappy rash",
+        "22": "Home treatment of cough",
+        "23": "Home treatment of pneumonia",
+        "24": "Infection prevention control measures during home care of children with respiratory diseases",
+        "25": "Management of fever at home",
+        "26": "Home treatment of mouth lesions",
+        "27": "Home treatment of varicella",
+        "28": "Prevention and management of tick bites",
+        "29": "Home treatment of constipation",
+        "30": "Breath-holding spells",
+        "31": "Daytime wetting",
+        "32": "Personal hygiene for the penis and foreskin during treatment of balanitis",
+        "33": "Home treatment of atopic dermatitis",
+        "34": "Home treatment of impetigo",
+        "35": "First aid action plan for seizures",
+        "36": "Febrile seizures",
+        "37": "General safety for a child or adolescent with epilepsy and seizures",
+        "38": "Home treatment of a child with a head injury",
+        "39": "Managing pain at home",
+        "40": "Healthy sleep for children and adolescents",
+        "41": "Considerations in children and adolescents with diabetes",
+        "42": "Correct insulin injection technique"
+      }
+    },
+    "ProvidingCarePage": {
+      "Title": "Providing care",
+      "Menu": {
+        "TheRoleOfThePrimaryHealthCareProvider": "The role of the primary health care provider",
+        "GeneralStandards": "General standards and principles",
+        "WHOQuality": "WHO quality of care standards for children and young  adolescent",
+        "ConventionRightsChild": "Convention on the Rights of the Child",
+        "DeliveringCare": "Delivering care to children and adolescents in vulnerable situations",
+        "ChildrenAndAdolescentsInVulnerableSituations": "Children and adolescents in vulnerable situations",
+        "MigrantAndRefugee": "Migrant and refugee children and adolescents"
+      }
+    },
+    "AdolescentHealthPage": {
+      "ApproachContent": "This chapter covers conditions specific to adolescence. All other conditions occurring in childhood and adolescence can be found in previous chapters of this book.",
+      "Title": "Adolescent health",
+      "Menu": {
+        "DevelopmentAdolescent": "Development of the adolescent",
+        "CompetenceConsentConfidentiality": "Competence, consent and confidentiality",
+        "DiagnosticApproaches": "Diagnostic approaches to the adolescent",
+        "AdolescentWithDelayed": "Adolescent with delayed puberty",
+        "AdolescentWithConcerns": "Adolescent with concerns about sexual and reproductive matters",
+        "SexualAndReproductiveHealth": "Sexual and reproductive health assessment",
+        "SexualEducationAndCounselling": "Sexual education and counselling",
+        "Contraception": "Contraception",
+        "AdolescentWhoReports": "Adolescent who reports unprotected sexual intercourse",
+        "EmergencyContraception": "Emergency contraception",
+        "PostHIVExposureProphylaxis": "Post-HIV exposure prophylaxis",
+        "SexuallyTransmittedInfections": "Sexually transmitted infections",
+        "Pregnancy": "Pregnancy",
+        "Abortion": "Abortion",
+        "AdolescentGirl": "Adolescent girl with menstrual cycle problems",
+        "Hypermenorrhoea": "Hypermenorrhoea",
+        "Dysmenorrhoea": "Dysmenorrhoea",
+        "Amenorrhoea": "Amenorrhoea",
+        "AdolescentWithSkin": "Adolescent with skin problems",
+        "AdolescentWithEmotional": "Adolescent with emotional and behavioural problems",
+        "AdolescentLiving": "Adolescent living with chronic conditions"
+      }
+    },
+    "DiagnosticApproachesPage": {
+      "Title": "Diagnostic approaches",
+      "Menu": {
+        "WellChildVisits": "Well-child visits, problem visits, follow-up visits",
+        "TakingPaediatricHistory": "Taking a paediatric history",
+        "ApproachToTheChild": "Approach to the child and physical examination",
+        "DifferentialDiagnoses": "Differential diagnoses",
+        "FollowUpCare": "Follow-up care"
+      }
+    },
+    "DrugDosagesPage": {
+      "Title": "Drug dosages"
+    },
+    "EmergencyPage": {
+      "Title": "Emergencies and trauma",
+      "Menu": {
+        "PrinciplesEmergency": "Principles of emergency care",
+        "AssessmentEmergency": "Assessment of emergency signs",
+        "RespiratoryCardiacArrest": "Respiratory and cardiac arrest",
+        "SevereRespiratoryDistress": "Severe respiratory distress",
+        "Shock": "Shock",
+        "LethargyComaConvulsions": "Lethargy - coma - convulsions",
+        "Trauma": "Trauma",
+        "BurnsScalds": "Burns and scalds",
+        "Poisoning": "Poisoning",
+        "Envenoming": "Envenoming",
+        "Drowning": "Drowning",
+        "Electrocution": "Electrocution",
+        "AcuteAbdomen": "Acute abdomen",
+        "EmergencyDrugs": "Emergency drugs"
+      }
+    },
+    "HealthPromotionPage": {
+      "Approach": "Approach to health promotion and disease prevention",
+      "Title": "Health promotion",
+      "Menu": {
+        "EarlyChildhoodDevelopment": "Early childhood development",
+        "Vaccinations": "Vaccinations",
+        "ScreeningTests": "Screening tests and monitoring",
+        "NutritionalCounselling": "Nutritional counselling",
+        "Micronutrient": "Micronutrient and vitamin supplements",
+        "OralHealth": "Oral health",
+        "Sleep": "Sleep",
+        "SedentaryBehaviour": "Sedentary behaviour and recreational screen time",
+        "PhysicalActivity": "Physical activity",
+        "SunProtection": "Sun protection",
+        "UnintentionalInjuryPrevention": "Unintentional injury prevention",
+        "SupportingMentalHealth": "Supporting mental health and well-being"
+      }
+    },
+    "NewbornHealthPage": {
+      "Approach": "Approach to newborn health",
+      "Title": "Newborn health",
+      "Menu": {
+        "CareAndPhysical": "Care and physical examination of the newborn after birth",
+        "GrowthWeightMonitoring": "Growth and weight monitoring",
+        "ScreeningTests": "Screening tests",
+        "AdditionalConsiderations": "Additional considerations in case of home delivery",
+        "CounsellingDuring": "Counselling during the newborn period",
+        "NormalVariations": "Normal variations and concerning findings:",
+        "HeadAndSkull": "Head and skull",
+        "Face": "Face",
+        "Mouth": "Mouth",
+        "Neck": "Neck",
+        "Ears": "Ears",
+        "Eyes": "Eyes",
+        "Abdomen": "Abdomen",
+        "Genitalia": "Genitalia, anus and inguinal area",
+        "Spine": "Spine and lumbosacral region",
+        "ArmsAndHands": "Arms and hands",
+        "LegsAndFeet": "Legs and feet",
+        "Hips": "Hips",
+        "Skin": "Skin",
+        "NeonatalJaundice": "Neonatal jaundice and hyperbilirubinaemia",
+        "DelayPassingMeconium": "Delay in passing meconium",
+        "ExcessiveCrying": "Excessive crying",
+        "Vomiting": "Vomiting",
+        "DownSyndrome": "Down syndrome",
+        "FetalAlcohol": "Fetal alcohol spectrum disorder",
+        "CongenitalHeartDisease": "Congenital heart disease",
+        "CongenitalStridor": "Congenital stridor (laryngomalacia)",
+        "NewbornMetabolicCondition": "Newborn with a possible metabolic condition",
+        "CongenitalHypothyroidism": "Congenital hypothyroidism",
+        "NewbornsMothersInfectious": "Newborns of mothers with infectious diseases",
+        "CongenitalCytomegalovirus": "Congenital cytomegalovirus infection",
+        "CongenitalRubella": "Congenital rubella infection",
+        "CongenitalSyphilis": "Congenital syphilis",
+        "CongenitalToxoplasmosis": "Congenital toxoplasmosis",
+        "HerpesSimplexVirus": "Herpes simplex virus",
+        "NewbornsOfMothersWithHIV": "Newborns of mothers with HIV",
+        "NewbornsOfMothersWitHepatitisB": "Newborns of mothers with hepatitis B",
+        "NewbornsOfMothersWithCOVID19": "Newborns of mothers with COVID-19",
+        "NewbornsOfMothersWithTuberculosis": "Newborns of mothers with tuberculosis",
+        "TheSickNewborn": "The sick newborn with danger signs"
+      }
+    },
+    "OtherPage": {
+      "Title": "Others",
+      "Menu": {
+        "CreatingChildAdolescentFriendly": "Creating a child- and adolescent-friendly environment",
+        "Triage": "Triage at the first point of contact",
+        "InfectionPrevention": "Infection prevention and control",
+        "Equipment": "Equipment",
+        "EmergencyDrugs": "Emergency drugs",
+        "LaboratoryTests": "Laboratory tests and radiological investigations",
+        "Referral": "Referral of newborns, children and adolescents",
+        "CalculatingChildWeightForAge": "Calculating a child’s weight-for-age",
+        "GirlsWeightForAge": "Girls: Weight-for-age",
+        "BoysWeightForAge": "Boys: Weight-for-age",
+        "CalculatingChildHeightForAge": "Calculating a child’s length- or height-for-age",
+        "GirlsHeightForAge": "Girls: Length- or height-for-age",
+        "BoysHeightForAge": "Boys: Length- or height-for-age",
+        "CalculatingChildWeightForLength": "Calculating a child’s weight-for-length or -height",
+        "GirlsWeightForLength": "Girls: Weight-for-length or -height",
+        "BoysWeightForLength": "Boys: Weight-for-length or -height",
+        "CalculatingChildBMIForAge": "Calculating a child’s BMI-for-age",
+        "GirlsBMIForAge": "Girls: BMI-for-age",
+        "BoysBMIForAge": "Boys: BMI-for-age",
+        "CalculatingChildHeadCircumferenceForAge": "Calculating a child’s head circumference-for-age",
+        "GirlsHeadCircumferenceForAge": "Girls: Head circumference-for-age",
+        "BoysHeadCircumferenceForAge": "Boys: Head circumference-for-age"
+      }
+    },
+    "PracticalProceduresPage": {
+      "Title": "Practical procedures",
+      "Menu": {
+        "ClosingLacerations": "Closing lacerations with sutures, glue and strips",
+        "ApplyingBuddy": "Applying buddy strapping to digits",
+        "ApplyingAnArm": "Applying an arm sling",
+        "IncisionAndDrainage": "Incision and drainage of an abscess",
+        "MeasuringBloodPressure": "Measuring blood pressure",
+        "MeasuringBloodGlucose": "Measuring blood glucose",
+        "MeasuringBilirubin": "Measuring bilirubin with a transcutaneous  bilirubinometer",
+        "GivingInjections": "Giving injections",
+        "GivingParenteralFluids": "Giving parenteral fluids",
+        "NeedleThoracocentesis": "Needle thoracocentesis"
+      }
+    },
+    "SpecificComplaintPage": {
+      "Approach": "Approach to symptoms and complaints ",
+      "Title": "Symptoms and complaints",
+      "Menu": {
+        "CoughDifficultyBreathing": "Cough or difficulty in breathing",
+        "EarNoseThroat": "Ear, nose or throat problems",
+        "Fever": "Fever",
+        "Diarrhoea": "Diarrhoea",
+        "Vomiting": "Vomiting",
+        "AbdominalPain": "Abdominal pain",
+        "ChestPain": "Chest pain",
+        "HeartMurmur": "Heart murmur",
+        "Palpitations": "Palpitations",
+        "Syncope": "Syncope",
+        "HighBlood": "High blood pressure (hypertension)",
+        "RenalProblems": "Renal problems",
+        "GenitourinarySymptoms": "Genitourinary symptoms",
+        "RashesItch": "Rashes, itch and other skin problems",
+        "Pallor": "Pallor",
+        "Jaundice": "Jaundice",
+        "SwellingOrPain": "Swelling or pain of the joints or bones",
+        "LumpsSwellings": "Lumps and swellings",
+        "EyeProblems": "Eye problems",
+        "Headache": "Headache",
+        "Seizures": "Seizures",
+        "LowFloppyMuscle": "Low and floppy muscle tone",
+        "Injuries": "Injuries",
+        "ForeignBodies": "Foreign bodies",
+        "Pain": "Pain",
+        "WeightGrowthProblems": "Weight and growth problems",
+        "HeadSizeVariations": "Head size variations",
+        "LowMoodDepression": "Low mood and depression",
+        "SuicidalThoughts": "Suicidal thoughts or self-harm",
+        "FearAnxiety": "Fear, anxiety, avoidance of situations or objects",
+        "InattentionOveractivity": "Inattention or overactivity",
+        "AngerTemper": "Anger, temper tantrums, disobedience",
+        "DifficultiesSocialInteraction": "Difficulties with social interaction and communication",
+        "SleepingProblems": "Sleeping problems",
+        "EatingProblems": "Eating problems, fear of gaining weight",
+        "RecurrentUnexplained": "Recurrent, unexplained physical symptoms"
+      },
+      "ApproachContent": {
+        "EarNoseThroat": "Ear, nose and throat (ent) conditions such as otitis media and tonsillitis are particularly  common  in  young  children  while  sinusitis  is  more  common  in  older children and adolescents. Viral infections are the most common causes of ent symptoms although bacterial infection should be excluded."
+      },
+      "CoughSubMenu": {
+        "Approach": "Approach to cough or difficulty in breathing",
+        "CoughOrCommonCold": "Cough or common cold",
+        "AcuteBronchitis": "Acute bronchitis",
+        "Pneumonia": "Pneumonia",
+        "COVID19": "COVID-19",
+        "Wheeze": "Wheeze",
+        "Bronchiolitis": "Bronchiolitis",
+        "Recurrent": "(Recurrent) wheezing associated with common cold",
+        "Stridor": "Stridor",
+        "ViralCroup": "Viral croup",
+        "RetropharyngealAbscess": "Retropharyngeal abscess",
+        "Diphtheria": "Diphtheria",
+        "Epiglottitis": "Epiglottitis",
+        "ChronicCough": "Chronic cough",
+        "Pertussis": "Pertussis"
+      },
+      "EarNoseThroatSubMenu": {
+        "OtalgiaEarPain": "Otalgia (ear pain)",
+        "OtitisExterna": "Otitis externa",
+        "AcuteOtitisMedia": "Acute otitis media",
+        "OtitisMediaWithEffusion": "Otitis media with effusion",
+        "ChronicOtitisMedia": "Chronic otitis media",
+        "Mastoiditis": "Mastoiditis",
+        "SoreThroat": "Sore throat",
+        "Tonsillitis": "Tonsillitis",
+        "NasalDischarge": "Nasal discharge",
+        "Sinusitis": "Sinusitis",
+        "NasalObstruction": "Nasal obstruction",
+        "AdenoidHypertrophy": "Adenoid hypertrophy",
+        "NasalSeptalDeviation": "Nasal septal deviation",
+        "NasalPolyps": "Nasal polyps",
+        "EpistaxisNoseBleeding": "Epistaxis (nose bleeding)"
+      },
+      "FeverSubMenu": {
+        "Approach": "Approach to fever",
+        "FeverLasting7Days": "Fever lasting 7 days or less",
+        "Meningitis": "Meningitis",
+        "Influenza": "Influenza",
+        "Mumps": "Mumps",
+        "HerpeticGingivostomatitis": "Herpetic gingivostomatitis",
+        "Herpangina": "Herpangina",
+        "AcuteRheumaticFever": "Acute rheumatic fever",
+        "FeverWithRash": "Fever with rash",
+        "Measles": "Measles",
+        "ScarletFever": "Scarlet fever",
+        "Rubella": "Rubella (German measles)",
+        "Erythema": "Erythema infectiosum",
+        "ExanthemaSubitum": "Exanthema subitum (Roseola)",
+        "InfectiousMononucleosis": "Infectious mononucleosis",
+        "KawasakiDisease": "Kawasaki disease",
+        "Varicella": "Varicella (chickenpox)",
+        "HandFoot": "Hand, foot and mouth disease",
+        "FeverLastingLongerThan7": "Fever lasting longer than 7 days",
+        "Abscess": "Abscess",
+        "Brucellosis": "Brucellosis",
+        "LymeDisease": "Lyme disease",
+        "TickBorne": "Tick-borne relapsing fever",
+        "Boutonneuse": "Boutonneuse fever (Mediterranean spotted fever)",
+        "RecurrentFever": "Recurrent fever",
+        "FamilialMediterraneanFever": "Familial Mediterranean fever",
+        "FeverInTheChildComingFromAbroad": "Fever in the child coming from abroad"
+      },
+      "DiarrhoeaSubMenu": {
+        "Approach": "Approach to diarrhoea",
+        "AcuteDiarrhoea": "Acute diarrhoea (gastroenteritis)",
+        "NoDehydration": "No dehydration",
+        "SomeDehydration": "Some dehydration",
+        "SevereDehydration": "Severe dehydration",
+        "DiarrhoeaAndPersistentVomiting": "Diarrhoea and persistent vomiting",
+        "AntibioticAssociated": "Antibiotic-associated diarrhoea",
+        "FoodPoisoning": "Food poisoning",
+        "Dysentery": "Dysentery (bloody diarrhoea)",
+        "PersistentDiarrhoea": "Persistent diarrhoea",
+        "PostInfectious": "Post-infectious diarrhoea",
+        "FoodAllergy": "Food allergy and food intolerance",
+        "MilkAllergy": "Milk allergy",
+        "LactoseIntolerance": "Lactose intolerance",
+        "Toddler": "Toddler’s diarrhoea",
+        "Irritable": "Irritable bowel syndrome",
+        "Giardiasis": "Giardiasis",
+        "CoeliacDisease": "Coeliac disease",
+        "InflammatoryBowel": "Inflammatory bowel disease",
+        "Worms": "Worms"
+      },
+      "VomitingSubMenu": {
+        "Approach": "Approach to vomiting",
+        "Motion": "Motion or travel sickness",
+        "Gastroesophageal": "Gastroesophageal reflux disease"
+      },
+      "AbdominalPainSubMenu": {
+        "Approach": "Approach to abdominal pain",
+        "Functional": "Functional abdominal pain",
+        "Mesenteric": "Mesenteric adenitis",
+        "Constipation": "Constipation",
+        "Peptic": "Peptic ulcer disease"
+      },
+      "HeartMurmurSubMenu": {
+        "Approach": "Approach to heart murmur",
+        "Innocent": "Innocent murmur",
+        "Pathological": "Pathological murmur"
+      },
+      "PalpitationsSubMenu": {
+        "Approach": "Approach to palpitations",
+        "Arrhythmias": "Arrhythmias"
+      },
+      "RenalProblemsSubMenu": {
+        "Approach": "Approach to renal problems",
+        "Proteinuria": "Proteinuria",
+        "Nephrotic": "Nephrotic syndrome",
+        "Haematuria": "Haematuria",
+        "NephriticSyndrome": "Nephritic syndrome",
+        "Poststreptococcal": "Poststreptococcal glomerulonephritis",
+        "Haemolytic": "Haemolytic uraemic syndrome",
+        "RenalTumour": "Renal tumour",
+        "RenalFailure": "Renal failure",
+        "AcuteKidneyInjury": "Acute kidney injury",
+        "ChronicKidneyDisease": "Chronic kidney disease"
+      },
+      "GenitourinarySymptomsSubMenu": {
+        "Dysuria": "Dysuria",
+        "UrinaryTractInfection": "Urinary tract infection: cystitis and pyelonephritis",
+        "KidneyStones": "Kidney stones",
+        "UrinaryIncontinence": "Urinary incontinence",
+        "BedWetting": "Bed-wetting (enuresis)",
+        "Daytime": "Daytime wetting",
+        "ScrotalPainOrSwelling": "Scrotal pain or swelling",
+        "TesticularTorsion": "Testicular torsion",
+        "TorsionOfAppendix": "Torsion of appendix of the testis or epididymis",
+        "EpididymoOrchitis": "Epididymo-orchitis",
+        "ScrotalTrauma": "Scrotal trauma",
+        "Varicocele": "Varicocele",
+        "Hydrocele": "Hydrocele",
+        "TesticularTumour": "Testicular tumour",
+        "AbsentOrUndescendedTestis": "Absent or undescended testis",
+        "SwellingInTheGroin": "Swelling in the groin",
+        "InguinalHernia": "Inguinal hernia",
+        "IncarceratedHernia": "Incarcerated hernia",
+        "ComplaintsRelatedToThePenis": "Complaints related to the penis and foreskin",
+        "Balanitis": "Balanitis",
+        "Phimosis": "Phimosis",
+        "Paraphimosis": "Paraphimosis",
+        "HairTourniquet": "Hair tourniquet",
+        "ZipperInjury": "Zipper injury",
+        "Priapism": "Priapism",
+        "GynaecologicalComplaints": "Gynaecological complaints",
+        "VaginalDischarge": "Vaginal discharge (vulvovaginitis)",
+        "VaginalBleeding": "Vaginal bleeding",
+        "LabialAdhesions": "Labial adhesions",
+        "VulvarUlcers": "Vulvar ulcers"
+      },
+      "RashesItchSubMenu": {
+        "Approach": "Approach to rashes, itch and other skin problems",
+        "MaculopapularRash": "Maculopapular rash with or without fever",
+        "AtopicDermatitis": "Atopic dermatitis/eczema",
+        "Impetigo": "Impetigo",
+        "Cellulitis": "Cellulitis",
+        "SkinAbscess": "Skin abscess",
+        "FungalInfection": "Fungal infection",
+        "Sunburn": "Sunburn",
+        "Urticaria": "Urticaria",
+        "AllergicReactions": "Allergic reactions/contact dermatitis",
+        "Scabies": "Scabies",
+        "MolluscumContagiosum": "Molluscum contagiosum",
+        "Erysipelas": "Erysipelas",
+        "VesicularOrBullous": "Vesicular or bullous rash",
+        "HerpeticInfection": "Herpetic infection",
+        "PurpuricOrPetechial": "Purpuric or petechial rash",
+        "HenochSchönleinPurpura": "Henoch-Schönlein purpura",
+        "Warts": "Warts",
+        "Lice": "Lice"
+      },
+      "PallorSubMenu": {
+        "Approach": "Approach to pallor",
+        "Anaemia": "Anaemia"
+      },
+      "JaundiceSubMenu": {
+        "Approach": "Approach to jaundice",
+        "Viral": "Viral hepatitis"
+      },
+      "SwellingOrPainSubMenu": {
+        "Approach": "Approach to swelling or pain of the joints or bones",
+        "Rickets": "Rickets",
+        "Juvenile": "Juvenile idiopathic arthritis"
+      },
+      "EyeProblemsSubMenu": {
+        "Approach": "Approach to eye problems",
+        "ReducedVision": "Reduced vision",
+        "RedEyes": "Red eyes",
+        "InflammationsAroundTheEye": "Inflammations around the eye",
+        "InflammationOfTheEyelid": "Inflammation of the eyelid",
+        "ExcessiveWatering": "Excessive watering of the eye",
+        "WhitePupil": "White pupil (leukocoria)"
+      },
+      "HeadacheSubMenu": {
+        "Approach": "Approach to headache",
+        "Temporomandibular": "Temporomandibular joint syndrome",
+        "TensionType": "Tension-type headache",
+        "Migraine": "Migraine"
+      },
+      "SeizuresSubMenu": {
+        "Approach": "Approach to seizures",
+        "FebrileSeizures": "Febrile seizures",
+        "Epilepsy": "Epilepsy"
+      },
+      "InjuriesSubMenu": {
+        "WoundsCuts": "Wounds, cuts and grazes",
+        "BluntInjuries": "Blunt injuries",
+        "AnimalBites": "Animal bites and envenoming",
+        "InsectBites": "Insect bites and stings",
+        "BurnsAndScalds": "Burns and scalds",
+        "HeadInjuries": "Head injuries",
+        "Sprains": "Sprains",
+        "PulledElbow": "Pulled elbow",
+        "Fractures": "Fractures"
+      },
+      "WeightGrowthProblemsSubMenu": {
+        "Approach": "Approach to weight and growth problems",
+        "Malnutrition": "Malnutrition, thinness and growth faltering",
+        "Overweight": "Overweight and obesity",
+        "ShortStature": "Short stature",
+        "TallStature": "Tall stature"
+      },
+      "DifficultiesWithSocialSubMenu": {
+        "Approach": "Approach to difficulties with social interaction and communication",
+        "Schizophrenia": "Schizophrenia"
+      }
+    },
+    "SpecificDiseasePage": {
+      "Title": "Diseases and conditions",
+      "ApproachContent": "The child or adolescent who might have or has ... ",
+      "Menu": {
+        "ComplexCareNeeds": "Complex care needs",
+        "DevelopmentalDifficulties": "Developmental difficulties",
+        "AutismSpectrum": "Autism spectrum disorder",
+        "AttentionDeficit": "Attention deficit hyperactivity disorder",
+        "DownSyndrome": "Down syndrome",
+        "NeuralTubeDefects": "Neural tube defects",
+        "CerebralPalsy": "Cerebral palsy",
+        "FetalAlcohol": "Fetal alcohol spectrum disorder",
+        "HeartDisease": "Heart disease",
+        "ChronicKidneyDisease": "Chronic kidney disease",
+        "Asthma": "Asthma",
+        "CysticFibrosis": "Cystic fibrosis",
+        "DiabetesMellitus": "Diabetes mellitus",
+        "Thalassaemia": "Thalassaemia",
+        "SickleCellDisease": "Sickle cell disease",
+        "Cancer": "Cancer",
+        "HIVAIDS": "HIV/AIDS",
+        "Tuberculosis": "Tuberculosis",
+        "ChildMaltreatment": "Child maltreatment",
+        "EmotionalBehavioural": "Emotional and behavioural problems",
+        "SubstanceUse": "Substance use and abuse",
+        "ProblematicUseInternet": "Problematic use of internet and social media",
+        "PalliativeCareNeeds": "Palliative care needs"
+      }
+    },
+    "WellChildVisitPage": {
+      "Approach": "Approach to well-child visits",
+      "Title": "Well-child visits",
+      "Menu": {
+        "GrowthMonitoring": "Growth monitoring",
+        "ChildLessThan5": "Child < 5 years",
+        "ChildMoreThan5": "Child > 5 years",
+        "AgeOfWellChildVisits": "Age of well-child visits",
+        "Birth72hours": "Birth-72 hours",
+        "1Week": "1 week",
+        "1Month": "1 month",
+        "3Month": "3 months",
+        "6Month": "6 months",
+        "1Year": "1 year",
+        "2Year": "2 years",
+        "3Years": "3 years",
+        "4Years": "4 years",
+        "5Years": "5 years",
+        "8Years": "8 years",
+        "10Years": "10 years",
+        "12Years": "12 years",
+        "14Years": "14 years"
+      }
+    },
+    "ToolsPage": {
+      "Title": "Tools & scales",
+      "Menu": {
+        "DrugCalculator": "Drug calculator",
+        "BMI": "BMI",
+        "GrowthMonitoring": "Growth monitoring",
+        "BodySurfaceArea": "Body surface area",
+        "Pneumonia": "Pneumonia",
+        "Dehydration": "Dehydration",
+        "Croup": "Croup",
+        "OtitisMedia": "Acute otitis media",
+        "Asthma": "Asthma",
+        "ApgarScore": "Apgar score",
+        "Jaundice": "Jaundice",
+        "PainScale": "Pain scale",
+        "AVPUScale": "AVPU scale"
+      },
+      "General": {
+        "Age": {
+          "SelectAge": "Select age:",
+          "Age": "Age"
+        },
+        "Symptoms": {
+          "SelectSymptoms": "Select symptoms:",
+          "Symptoms": "Symptoms"
+        },
+        "SymptomImage": {
+          "ImagesButton": "Show symptoms description",
+          "CloseButtonText": "Close symptoms description"
+        },
+        "DoNotText": "DO NOT "
+      }
+    },
+    "PneumoniaToolPage": {
+      "Age": {
+        "2_11month": "2-11 months",
+        "1_5years": "1-5 years"
+      },
+      "RespiratoryRate": {
+        "SelectRespiratoryRate": "Select respiratory rate:",
+        "RespiratoryRate1": "Below 40",
+        "RespiratoryRate2": "40 to 49",
+        "RespiratoryRate3": "50 or above"
+      },
+      "Symptoms": {
+        "OxygenSaturation": "Oxygen saturation below 90%",
+        "CentralCyanosis": "Central cyanosis",
+        "SevereRespiratoryDistress": "Severe respiratory distress (e.g. grunting, very severe chest indrawing)",
+        "Inability": "Inability to drink or breastfeed",
+        "Vomiting": "Vomiting everything",
+        "Lethargy": "Lethargy",
+        "Convulsions": "Convulsions",
+        "AlteredConsciousness": "Altered consciousness",
+        "LowerChest": "Lower chest wall indrawing"
+      },
+      "Result": {
+        "ResultTitle": "Result for your selected symptoms",
+        "NoPneumonia": "No pneumonia",
+        "NoPneumoniaTreatment": {
+          "Item1": "give antibiotics",
+          "Item2": "Consider ",
+          "LinkTitle": "common cold"
+        },
+        "Pneumonia": "Pneumonia",
+        "PneumoniaTreatment": {
+          "Treatment": {
+            "Title": "Treatment",
+            "Item1": "Give oral amoxicillin 30 mg/kg/dose 3 times a day for 5 to 7 days (see dosages in ",
+            "AnnexLinkTitle": "Drug calculator",
+            "Item2": ")",
+            "Item3_1": "In children < 5 years not vaccinated against",
+            "ItalicText": "Haemophilus influenzae",
+            "Item3_2": "type b or with influenza coinfection: oral amoxicillin-clavulanate (in a 8:1 fixed co-formulation) with amoxicillin 30 mg/kg/dose 3 times a day orally for 5 to 7 days.",
+            "Item4": {
+              "Main": "If beta-lactam allergy (see Hypersensitivity reactions ",
+              "AnnexLinkTitle": "annex",
+              "SubItem1": "):",
+              "SubItem2": "with type I hypersensitivity (anaphylaxis): oral azithromycin or clarithromycin;",
+              "SubItem3": "without type I hypersensitivity: oral cefuroxime axetil."
+            },
+            "Item5": "If suspected atypical pneumonia: oral azithromycin 10 mg/kg/dose once a day for 3 days.",
+            "Item6": "In children with immunosuppression and chronic diseases such as cystic fibrosis, consider other causative pathogens and antibiotics.",
+            "Item7": "Address risk factors such as parental smoking, indoor pollution and malnutrition if present.",
+            "Item8_1": "Counsel caregivers to provide supportive care at home (see Home treatment of pneumonia ",
+            "CounsellingBoxLinkTitle1": "counselling box",
+            "Item8_2": ")",
+            "Item9": "and on management of fever and pain with paracetamol and ibuprofen (see Management of fever at home ",
+            "CounsellingBoxLinkTitle2": "counselling box",
+            "Item10": ")."
+          },
+          "FollowUp": {
+            "Title": "Follow-up",
+            "Item1": "Reassess after 2–3 days, or ask the caregivers to come back earlier if the child becomes worse (see Home treatment of pneumonia ",
+            "CounsellingBoxLinkTitle": "counselling box",
+            "Item2": "):",
+            "Item3": "If improvement: ask caregivers to complete course of antibiotics if started",
+            "Item4": "If no improvement: refer to hospital.",
+            "Item5": "Assess if identified risk factors are being addressed."
+          }
+        },
+        "SeverePneumonia": "Severe pneumonia",
+        "SeverePneumoniaTreatment": {
+          "Item1_1": "Provide early oxygen therapy (",
+          "ChartTitle": "Chart 8",
+          "Item1_2": ").",
+          "Item2": "Refer to hospital.",
+          "Item3_1": "Consider giving the first dose of IV or IM ampicillin at 50 mg/kg/dose if referral is expected to be significantly delayed (see dosages in ",
+          "AnnexLinkTitle": "Drug calculator",
+          "Item3_2": ")."
+        }
+      },
+      "MainTitle": "Classification of severity of pneumonia in children < 5 years",
+      "ButtonTitle": "Classify pneumonia",
+      "ButtonRecalculateTitle": "Recalculate",
+      "SymptomImage": {
+        "Title": "Lower chest wall indrawing",
+        "Description": "occurs when the lower chest wall collapses as the child breathes in. This is not the case if only the soft tissue between the ribs or above the clavicle retracts as the child breathes in.",
+        "AdditionalInfo": {
+          "0": "breathing",
+          "1": "out",
+          "2": "in"
+        }
+      }
+    },
+    "DehydrationToolPage": {
+      "Symptoms": {
+        "SelectSymptoms": "In a child with diarrhoea check the following:",
+        "Restlessness": "Restlessness, irritability",
+        "Lethargy": "Lethargy or unconsciousness",
+        "SunkenEyes": "Sunken eyes",
+        "DrinksEagerly": "Drinks eagerly, thirsty",
+        "UnableToDrink": "Unable to drink or drinks poorly",
+        "SkinPinchSlowly": "Skin pinch goes back slowly",
+        "SkinPinchVerySlowly": "Skin pinch goes back very slowly (2 sec or more)"
+      },
+      "Result": {
+        "NoDehydration": "No dehydration",
+        "NoDehydrationTreatment": "Not enough signs to classify as some or severe dehydration. Treat diarrhoea at home according to treatment ",
+        "NoDehydrationTreatmentLink": "plan A.",
+        "SomeDehydration": "Some dehydration",
+        "SomeDehydrationTreatment": "Give fluids according to treatment ",
+        "SomeDehydrationTreatmentLink": "plan B.",
+        "SevereDehydration": "Severe dehydration",
+        "SevereDehydrationTreatment": "Refer urgently. While awaiting referral start fluids according to treatment ",
+        "SevereDehydrationTreatmentLink": "plan C."
+      },
+      "MainTitle": "Classification of dehydration in a child with diarrhoea",
+      "ButtonTitle": "Classify dehydration",
+      "ImagesButton": "Symptoms description",
+      "SymptomImage": {
+        "Item1": {
+          "Title": "Pinching the child’s abdomen to test for decreased skin turgor"
+        },
+        "Item2": {
+          "Title": "Slow return of skin pinch in severe dehydration"
+        },
+        "Item3": {
+          "Title": "Sunken eyes"
+        }
+      }
+    },
+    "CroupToolPage": {
+      "Symptoms": {
+        "Fever": "Fever",
+        "HoarseVoice": "Hoarse voice",
+        "BarkingCough": "Barking or hacking cough",
+        "StridorAgitated": "Stridor that is heard only when the child is agitated",
+        "StridorAtRest": "Stridor even when the child is at rest",
+        "RapidBreathing": "Rapid breathing and lower chest indrawing",
+        "Cyanosis": "Cyanosis or oxygen saturation < 90%"
+      },
+      "Result": {
+        "NoCroup": "No croup",
+        "NoCroupTreatment": "Not enough signs to classify as mild or severe croup",
+        "MildCroup": "Mild croup",
+        "MildCroupTreatment": {
+          "Item1": "give antibiotics",
+          "Item2": "give sedatives or antitussive (cough suppressant) medicines",
+          "Item3": "Give oral dexamethasone 0.15 mg/kg, as a single dose or prednisolone 1 mg/kg twice a day for 3 days. Start the steroids as soon as possible. Repeat the dose for children who vomit",
+          "Item4": {
+            "Main1_1": "Counsel caregivers to provide supportive care at home (see Home treatment of cough ",
+            "LinkTitle": "counselling box",
+            "Main1_2": "). In addition to the messages in the box remember to counsel to:",
+            "SubItem1": "Keep the child calm. Avoid disturbance as much as possible",
+            "SubItem2": "Return after 24 hours for re-evaluation or earlier if the child becomes sicker or presents any sign of severe croup: stridor when at rest, rapid breathing or lower chest indrawing"
+          }
+        },
+        "SevereCroup": "Severe croup",
+        "SevereCroupTreatment": {
+          "Item1": "Refer to the hospital",
+          "Item2": {
+            "Main": "Before and during referral give:",
+            "SubItem1": "Oral dexamethasone 0.6 mg/kg, single dose. Repeat the dose for children who vomit.",
+            "SubItem2": "Nebulized epinephrine (adrenaline) (0.5 ml/kg 1:1000 solution, maximum 5 mL/dose). If this is effective and referral is delayed: repeat as often as every hour and carefully monitor the child’s condition, especially the respiratory status, every 2–3 hours, until stable. While this treatment can lead to improvement within 30 min, it is often temporary and may last only about 2 h.",
+            "SubItem3": "Oxygen to maintain oxygen saturation > 94%"
+          }
+        }
+      },
+      "MainTitle": "Classification of severity of croup",
+      "ButtonTitle": "Classify croup",
+      "ButtonRecalculateTitle": "Recalculate"
+    },
+    "OtitisMediaToolPage": {
+      "Age": {
+        "Under6months": "<6 month",
+        "6_23months": "6-23 months",
+        "2yearsmore": "2 years or more"
+      },
+      "Symptoms": {
+        "BilateralAcuteOtitisMedia": "Bilateral acute otitis media",
+        "MarkedPusDraining": "Marked pus draining (not due to otitis externa)",
+        "Fever": "Fever > 39 °C",
+        "IntenseEarPain": "Intense ear pain for at least 48 hours",
+        "SickAppearance": "Sick appearance",
+        "PresenceSeriousIllness": "Presence or high risk of serious illness (immunosuppression, cystic fibrosis) and/or complications",
+        "RecurrentAcuteOtitisMedia": "Recurrent acute otitis media (at least 3 episodes in the last 6 months or at least 4 episodes in the last 12 months)"
+      },
+      "Result": {
+        "ButtonTitle": "Get result",
+        "PrescribeAntibiotics": {
+          "Title": "Prescribe antibiotics",
+          "Antibiotic_Under6Months": {
+            "Item1": "Give oral amoxicillin-clavulanate or cefuroxime axetil for 10 days (see dosages in ",
+            "LinkTitle": "Drug calculator",
+            "Item2": ")."
+          },
+          "Antibiotic_6_23Months": "Give oral amoxicillin 30 mg/kg/dose three times a day for 7–10 days ",
+          "Antibiotic_2more": "Give oral amoxicillin 30 mg/kg/dose three times a day for 5–7 days",
+          "BetaLactamAllergy": {
+            "Title": "If beta-lactam allergy (see Hypersensivity reactions ",
+            "AnnexLinkTitle": "annex",
+            "Item1": "):",
+            "SubItem1": "with type I hypersensitivity (anaphylaxis): oral azithromycin or clarithromycin",
+            "SubItem2": "without type I hypersensitivity: oral cefuroxime axetil"
+          }
+        },
+        "SupportiveCareAtHome": {
+          "Title": "Supportive care at home",
+          "DoNotGiveAntibiotics": "give antibiotics!",
+          "Item1": {
+            "Title": "Counsel caregivers to provide supportive care at home:",
+            "Item1": "The child should not go swimming or get water in the ear",
+            "Item2": "Give paracetamol or ibuprofen regularly for pain relief on the first 2 days (pain is common and can be very severe)",
+            "Item3": "If pus is draining from the ear, wick the ear three times daily until there is no more pus",
+            "Item4": "apply heat or cold",
+            "Item5": "instil any substances like oils or herbal extracts",
+            "Item6": "Return if the child worsens or fails to improve after 2–3 days"
+          }
+        }
+      },
+      "MainTitle": "Most children with acute otitis media will improve within 3 days without antibiotics"
+    },
+    "AsthmaPage": {
+      "Menu": {
+        "SeverityOfAsthma": "Classification of severity of asthma exacerbation",
+        "AssessmentOfSymptoms": "Assessment of asthma symptom control"
+      },
+      "SeverityOfAsthmaPage": {
+        "MainTitle": "Classification of severity of asthma exacerbation",
+        "ButtonTitle": "Classify",
+        "Age": {
+          "0_3years": "0-3 years",
+          "4_5years": "4-5 years",
+          "6more": "6 years or more"
+        },
+        "Symptoms": {
+          "Drowsy": "Drowsy",
+          "Confused": "Confused",
+          "SilentChest": "Silent chest on auscultation",
+          "GeneralCondition": {
+            "Title": "General condition",
+            "UnableSpeak": "Unable to speak or drink",
+            "CentralCyanosis": "Central cyanosis",
+            "BreathlessAgitated": "Breathless, agitated"
+          },
+          "MentalState": {
+            "Title": "Mental state",
+            "Agitated": "Agitated",
+            "Normal": "Normal mental state"
+          },
+          "SittingAndSpeaking": {
+            "Title": "Sitting and speaking",
+            "PreferSitting": "Prefers sitting to lying, talks in phrases",
+            "SitsHunched": "Sits hunched forward, talks in words"
+          },
+          "RespiratoryRate": {
+            "Title": "Respiratory rate",
+            "Above30": "Above 30/min",
+            "30below": "30/min and below",
+            "Above40": "Above 40/min",
+            "40below": "40/min and below"
+          },
+          "PulseRate": {
+            "Title": "Pulse rate",
+            "Above120": "Above 120 bpm",
+            "120below": "120 bpm and below",
+            "Above150": "Above 150 bpm",
+            "150below": "150 bpm and below",
+            "Above180": "Above 180 bpm",
+            "180below": "180 bpm and below"
+          },
+          "OxygenSaturation": {
+            "Title": "Oxygen saturation: SpO2 on room air",
+            "Under90": "Under 90%",
+            "90Above": "90% and above",
+            "92Above": "92% and above",
+            "Under92": "Under 92%"
+          }
+        },
+        "Result": {
+          "Common": {
+            "GiveControlledOxygen": "Give controlled oxygen. Target saturation 94–98%."
+          },
+          "ReferImmediately": {
+            "TitleInRed": "Refer immediately to hospital",
+            "Subtitle": "While waiting for transfer:",
+            "Item1_1": "Give salbutamol every 20 minutes for the first hour: 6–10 puffs (100 μg/ puff) by MDI with spacer and interface (see Choice of age-appropriate Inhaler device ",
+            "LinkTitle": "table",
+            "Item1_2": ") or nebulized (with oxygen) 2.5 mg if < 20 kg or 5 mg if ≥ 20 kg.",
+            "Item2": "Give prednisolone orally 1–2 mg/kg/day (max. 20 mg if < 2 years; 30 mg if 2–5 years, 40 mg if 6–11 years, 50 mg if >12 years) or methylprednisolone IM 2 mg/kg/dose (max. 60 mg).",
+            "Item4": "Consider ipratropium bromide 160 μg by MDI with spacer and interface or nebulized (with salbutamol) 250 μg if < 30 kg or 500 μg if ≥ 30 kg."
+          },
+          "MildSeverate": {
+            "Title": "Mild or moderate exacerbation",
+            "Item1_1": "Give salbutamol every 20 minutes for the first hour, if needed: 2–10 puffs (100 μg/puff) by MDI with spacer and interface (see Choice of age-appropriate Inhaler device ",
+            "LinkTitle": "table",
+            "Item1_2": ") or nebulized (with oxygen) 2.5 mg if < 20 kg or 5 mg if ≥ 20 kg.",
+            "Item2": "Give prednisolone orally to children ≥ 6 years. Consider in children ≤ 5 years if symptoms recur within 3–4 hours.",
+            "Item4": "Monitor closely for 1–2 hours and assess response:",
+            "GoodResponse": {
+              "Title_1": "Good response ",
+              "Title_2": "(symptoms improved, SpO2 > 94% on room air):",
+              "Subitem1": "Child can go home",
+              "Subitem2": "Continue salbutamol as needed and prednisolone for 3–5 days, if started (as above)",
+              "Subitem3": "Consider need for controller or step up regular controller",
+              "Subitem4_1": "Counsel on ",
+              "PageLink": "inhaler technique",
+              "Subitem4_2": ".",
+              "Subitem5_1": "Provide written action plan (see ",
+              "AnnexTitle": "Asthma action plan",
+              "Subitem5_2": ") and discuss how to recognize danger signs and what to do."
+            },
+            "PoorResponse": {
+              "Title_1": "Poor response",
+              "Title_2": " to salbutamol repeated 3 times over 1–2 hours or worsening of symptoms or signs of severe exacerbation:",
+              "Refer": "Refer ",
+              "Subitem1_1": "the child. While waiting for transfer provide treatment as for ",
+              "LinkTitle": "severe exacerbation",
+              "Subitem1_2": "."
+            }
+          },
+          "NoSigns": {
+            "Title": "No signs of asthma"
+          }
+        }
+      },
+      "AssessmentOfSymptomsPage": {
+        "MainTitle": "Assessment of asthma symptom control",
+        "Age": {
+          "6more": "6 years or more",
+          "5less": "5 years or less"
+        },
+        "Symptoms": {
+          "Title": "In the last 4 weeks, the child presented:",
+          "6more": {
+            "Item1": "Daytime symptoms more than 2 times per week (3 times or more)",
+            "Item2": "Reliever medication needed more than 2 times per week (3 times or more)"
+          },
+          "5less": {
+            "Item1": "Daytime symptoms 2 times or more per week",
+            "Item2": "Reliever medication needed 2 times or more per week"
+          },
+          "NightWalking": "Night-walking due to asthma",
+          "ActivityLimitation": "Activity limitation due to asthma"
+        },
+        "Result": {
+          "ButtonTitle": "Finish assessment",
+          "WellControlled": {
+            "Title": "Well controlled asthma",
+            "Item3": {
+              "Title": "If symptoms well controlled, stable lung function for 3 months or more and low risk for exacerbations - step down the asthma medication. ",
+              "Subitem1": "Choose an appropriate time (no respiratory infection, no travel)",
+              "Subitem2": "Document baseline status",
+              "SubItem3_1": "Use available formulations to reduce inhaled corticosteroids dose by 25-50% at 2-3 month intervals but do not stop inhaled corticosteroids (see ",
+              "LinkTitle": "full algorithm",
+              "SubItem3_2": ")."
+            },
+            "Item4": "Provide a written ",
+            "AnnexLink": "asthma action plan",
+            "Item5": " for the patient and caregivers."
+          },
+          "PartlyControlled": {
+            "Title": "Partly controlled asthma",
+            "Item3": "Maintain the same asthma medication and follow-up"
+          },
+          "Uncontrolled": {
+            "Title": "Uncontrolled asthma",
+            "Item3": "If symptoms uncontrolled and persistent exacerbations despite 2-3 months of controller treatment - step up the asthma medication. ",
+            "LinkTitle": "See full algorithm here",
+            "Item4": "If symptoms uncontrolled or exacerbations despite medium-dose inhaled corticosteroids with correct inhaler technique and good adherence - refer for specialist advice"
+          },
+          "General": {
+            "RiskFactors": {
+              "Item1": "Uncontrolled asthma symptoms",
+              "Item2": "≥ 1 severe exacerbations in previous year",
+              "Item3": "Poor adherence or incorrect inhaler technique",
+              "Item4": "Exposure: allergen exposure, pollution, tobacco smoke",
+              "Item5": "Major psychological or socioeconomic problems for child or family."
+            },
+            "RiskFactorsTitle": "Review and manage modifiable risk factors for exacerbations:",
+            "PoorAdherence": "In case of poor adherence, inquire for reasons and address them."
+          }
+        }
+      }
+    },
+    "JaundiceToolPage": {
+      "MainTitle": "Newborn hyperbilirubinemia assessment",
+      "ButtonTitle": "Classify",
+      "InfantAge": {
+        "24h": "24 h",
+        "48h": "48 h",
+        "72h": "72 h",
+        "96h": "96 h",
+        "more120h": "≥ 120 h"
+      },
+      "GestationsWeeks": {
+        "Title": "Gestation’s weeks: ",
+        "35_38": "35 to < 38 weeks",
+        "more38": "≥ 38"
+      },
+      "RiskFactors": {
+        "Title": "Select risk factors:",
+        "Item1": "Serious bacterial infection or sepsis",
+        "Item2": "Haemolytic disease due to ABO or rhesus incompatibility or glucose-6-phosphate dehydrogenase deficiency",
+        "Item3": "Liver disease such as hepatitis or biliary atresia",
+        "Item4": "Excessive weight loss after birth",
+        "Item5": "Hypothyroidism or other metabolic conditions",
+        "Item6": "Cephalohaematoma or significant bruising",
+        "Item7": "Preterm birth or low birth weight",
+        "Item8": "Family history of severe jaundice in siblings"
+      },
+      "TSB": {
+        "Title": "Current total serum bilirubin:",
+        "Placeholder": "Enter in ",
+        "TextForResult": "TSB is "
+      },
+      "Units": {
+        "Title": "Select units:",
+        "mg_dl": "mg/dL",
+        "mol_l": "μmol/L"
+      },
+      "Result": {
+        "ThresholdTitle": "Threshold is ",
+        "ReferUrgently": {
+          "ReferUrgentlyTitle": "REFER URGENTLY ",
+          "Item1_1": "to hospital for phototherapy or exchange transfusion. If you suspect an infection or sepsis, give a pre-referral antibiotic if referral is delayed (cefotaxime 50 mg/kg IV, see",
+          "Link": "Drug calculator",
+          "Item1_2": ")"
+        },
+        "MonitorClosely": "Monitor closely (repeat measurements on the next day and continue monitoring until bilirubin level is clearly decreasing).",
+        "CounselTo": {
+          "Item1_1": "Counsel to continue breastfeeding to ensure adequate hydration and address breastfeeding problems, if needed (see ",
+          "Link": "assessing a breastfeed",
+          "Item1_2": ")"
+        }
+      }
+    },
+    "AVPUToolPage": {
+      "MainTitle": "AVPU scale",
+      "Description": "Check the level of consciousness on the AVPU scale",
+      "A": {
+        "Letter": "A",
+        "Text": "lert",
+        "Desription": "If the child is not awake and alert, try to rouse the child by talking or shaking the arm."
+      },
+      "V": {
+        "Letter": "V",
+        "Text": "oice",
+        "Desription": "If the child is not alert but responds to voice, he or she is lethargic."
+      },
+      "P": {
+        "Letter": "P",
+        "Text": "ain",
+        "Desription": "If there is no response, ask the parents whether the child has been abnormally sleepy or difficult to wake. Determine whether the child responds to pain or is unresponsive to a painful stimulus."
+      },
+      "U": {
+        "Letter": "U",
+        "Text": "nresponsive",
+        "Desription": "If this is the case, the child is in coma (unconscious) and needs emergency treatment."
+      }
+    },
+    "BMIToolPage": {
+      "Fields": {
+        "Height": {
+          "Label": "Height/Length, cm",
+          "Placeholder": "Enter height (cm)"
+        },
+        "Weight": {
+          "Label": "Weight, kg",
+          "Placeholder": "Enter weight (kg)"
+        },
+        "ButtonCalculateBMI": "Calculate BMI"
+      },
+      "ResultText": "BMI: ",
+      "ResultPlaceholder": "Select weight and height"
+    },
+    "BodySurfaceAreaToolPage": {
+      "Fields": {
+        "Height": {
+          "Label": "Height/Length, cm",
+          "Placeholder": "Enter height (cm)"
+        },
+        "Weight": {
+          "Label": "Weight, kg",
+          "Placeholder": "Enter weight (kg)"
+        },
+        "ButtonCalculateBodySurfaceArea": "Calculate body surface area"
+      },
+      "ResultPlaceholder": "Select weight and height"
+    },
+    "ApgarScoreToolPage": {
+      "Appearance": {
+        "Title": "Appearance (skin colour)",
+        "2": "Normal colour all over (hands and feet are pink)",
+        "1": "Normal colour (but hands and feet are bluish)",
+        "0": "Bluish-gray or pale all over"
+      },
+      "Pulse": {
+        "Title": "Pulse (heart rate)",
+        "2": "Normal (above 100 beats per minute)",
+        "1": "Below 100 beats per minute",
+        "0": "Absent (no pulse)"
+      },
+      "Grimace": {
+        "Title": "Grimace",
+        "2": "Pulls away, sneezes, coughs, or cries",
+        "1": "Facial movement only with stimulation",
+        "0": "Absent (no response to stimulation)"
+      },
+      "Activity": {
+        "Title": "Activity (muscle tone)",
+        "2": "Active, spontaneous movement",
+        "1": "Arms and legs flexed with little movement",
+        "0": "No movement, “floppy” tone"
+      },
+      "Respiration": {
+        "Title": "Respiration (breathing rate and effort)",
+        "2": "Normal rate and effort, good cry",
+        "1": "Slow or irregular breathing, weak cry",
+        "0": "Absent (no breathing)"
+      },
+      "ButtonTitle": "Get Apgar score",
+      "ButtonText": "Apgar score is "
+    },
+    "PainMeasurementToolPage": {
+      "EmojiText": {
+        "Item1": "No hurt",
+        "Item2": "Hurts little bit",
+        "Item3": "Hurts little more",
+        "Item4": "Hurts even more",
+        "Item5": "Hurts whole lot",
+        "Item6": "Hurts worse"
+      },
+      "ScaleText": {
+        "Item1": "No pain",
+        "Item2": "Mild",
+        "Item3": "Moderate",
+        "Item4": "Severe",
+        "Item5": "Worst pain imaginable"
+      }
+    },
+    "GrowthMonitoringToolPage": {
+      "Age": {
+        "Label": "Age",
+        "Placeholder": "Enter age in month",
+        "0_5z": "Birth to 5 years (z-scores)",
+        "0_2z": "Birth to 2 years (z-scores)",
+        "2_5z": "2 to 5 years (z-scores)"
+      },
+      "Weight": {
+        "Label": "Weight",
+        "Placeholder": "Enter weight in kg"
+      },
+      "Height": {
+        "Label": "Length/height",
+        "Placeholder": "Enter length/height in cm"
+      },
+      "Sex": {
+        "Label": "Select sex:",
+        "Male": "Male",
+        "Female": "Female",
+        "Girls": "GIRLS",
+        "Boys": "BOYS"
+      },
+      "HeadCircumference": {
+        "Label": "Head circumference (optional)",
+        "Placeholder": "Enter head circumference in cm"
+      },
+      "Result": {
+        "WeightForLength": {
+          "Title": "Weight for length/height",
+          "TitleForFile": "wfl",
+          "YAxis": "weight in kg",
+          "XAxis_0_2": "length/height in cm (vertical lines for every 5 cm)",
+          "XAxis_2_5": "length/height in cm (vertical lines for every 2.5 cm)",
+          "NutritionalStatus": {
+            "ModerateAcutemalnutrition": "Moderate acute malnutrition (wasting)",
+            "SevereAcuteMalnutrition": "Severe acute malnutrition (wasting)"
+          }
+        },
+        "HeightForAge": {
+          "Title": "Length/height for age",
+          "TitleForFile": "hfa",
+          "YAxis": "length/height in cm",
+          "XAxis_0_2": "age in months",
+          "XAxis_2_5": "age in years (vertical lines for every 2 months)",
+          "NutritionalStatus": {
+            "ModerateStunting": "Moderate stunting",
+            "SevereStunting": "Severe stunting"
+          }
+        },
+        "WeightForAge": {
+          "Title": "Weight for age",
+          "TitleForFile": "wfa",
+          "YAxis": "weight in kg",
+          "XAxis": "age in years (vertical lines for every 6 months)",
+          "NutritionalStatus": {
+            "Underweight": "Underweight"
+          }
+        },
+        "BMIForAge": {
+          "Title": "BMI for age",
+          "TitleForFile": "bfa",
+          "YAxis": "bmi (kg/m²)",
+          "XAxis_0_2": "age in months",
+          "XAxis_2_5": "age in years (vertical lines for every 6 months)",
+          "NutritionalStatus": {
+            "Thinness": "Thinness",
+            "SevereThinness": "Severe thinness"
+          }
+        },
+        "HeadCircumferenceForAge": {
+          "Title": "Head circumference for age",
+          "TitleForFile": "hcfa",
+          "YAxis": "head circumference in cm",
+          "XAxis": "age in years (vertical lines for every 6 months)",
+          "NutritionalStatus": {
+            "Macrocephaly": "Macrocephaly",
+            "Microcephaly": "Microcephaly"
+          }
+        },
+        "NutritionalStatus": {
+          "Title": "Nutritional status",
+          "Obesity": "Obesity",
+          "Overweight": "Overweight",
+          "Normal": "Normal"
+        },
+        "XaxisTitle": "X-Axis",
+        "YaxisTitle": "Y-Axis",
+        "GetChartButtonTitle": "Open chart",
+        "ZscoreTitle": "Z-score",
+        "PercentileTitle": "Percentile",
+        "SaveButtonTitle": "Save chart to PDF",
+        "ZscoreFileTitle": "Z-score is "
+      },
+      "Alert": {
+        "PDFSaved": "This chart is saved as PDF file",
+        "SetSex": "Please, select sex (male or female)",
+        "AgeYearsLimits": "Please, enter correct number of years (number >= 0 and <=5 and without decimals)",
+        "AgeMonthsLimits": "Please, enter corrent age (months from 0 to 60 and without decimals)",
+        "AgeCorrect": "Please, enter correct age (months from 0 to 60 or years from 0 to 5 and months from 0 to 11)",
+        "WeightLimits": "Please, enter weight in kg (number>0)",
+        "HeightLimits": "Please, enter height/length in cm (number is from 45 to 120)",
+        "HeadCircumferenceLimits": "Please, enter head circumference in cm (number>0)",
+        "ErrToMuchLengthForAge": "This height is not appropriate small for this age"
+      },
+      "ButtonTitle": "Calculate",
+      "MainTitle": "Calculator for growth standards"
+    },
+    "DrugCalculatorToolPage": {
+      "Fields": {
+        "Weight": {
+          "Label": "Weight (in kg):",
+          "Placeholder": "-"
+        },
+        "Age": {
+          "Label": "Age",
+          "LabelYears": "years",
+          "LabelMonths": "months"
+        },
+        "Drug": {
+          "SelectDrug": "Select drug:",
+          "SelectDrugPlaceholder": "-",
+          "SearchPlaceholder": "Enter drug name for search:",
+          "SearchError": "There's nothing to show",
+          "PinkCellsTitle": "Pink cells - parenteral drugs",
+          "BlueCellsTitle": "Blue cells - nebulized or inhaled drugs"
+        }
+      },
+      "Result": {
+        "DrugTitle": "Drug name",
+        "DosageForSpecificDisease": "Dosage for specific disease",
+        "DiseaseName": "Disease name",
+        "Dosage": "Dosage",
+        "Formulation": "Formulations",
+        "Route": "Route",
+        "ModeOfAction": "Mode of action",
+        "DailyDose": "Daily dose in mg/kg (range)",
+        "MaximumDose": "Maximum per dose (mg/day)",
+        "DoseBodyWeight": "Dose",
+        "Note": "Note",
+        "For": "For",
+        "149Note": "As children approach a body weight of 25 kg, adult dosages can be used.",
+        "BottomInfo": {
+          "Item1": "IM: intramuscular ",
+          "Item2": "IU: international units",
+          "Item3": "IV: intravenous ",
+          "Item4": "SC: subcutaneous ",
+          "Item5": "For IM injection, if volume exceeds the maximum allowed, split over multiple sites. ",
+          "Item6": "For intranasal drugs, give half dose in each nostril."
+        },
+        "Patient": {
+          "Details": "Patient details",
+          "Age": "Age",
+          "year": "year",
+          "years": "years",
+          "month": "month",
+          "months": "months",
+          "Weight": "Weight",
+          "kg": "kg"
+        },
+        "Error": {
+          "NotAppropriateAge": "is not appropriate for this weight of a child"
+        }
+      },
+      "Alert": {
+        "WeightLimits": "Please, enter weight in kg (number > 0)",
+        "AgeYearsLimits": "Please, enter correct number of years (number >= 0, without decimals)",
+        "AgeYears150": "Please, enter years < 150",
+        "AgeInteger": "Please, enter age without decimals",
+        "AgeMonthsLimits": "Please, enter corrent age (months from 0 to 60, without decimals)",
+        "AgeCorrect": "Please, enter correct age (months from 0 to 60 or years from 0 and months from 0 to 11)",
+        "SelectDrug": "Please, select drug from list",
+        "WeightWithoutComa": "Please, enter weight without a comma (replace comma with a dot)"
+      },
+      "MainTitle": "Enter weight and select drug to calculate dosage",
+      "ButtonTitle": "Get drug dosage",
+      "RecalculateDosage": "Recalculate dosage"
+    },
+    "ToolsResultPage": {
+      "Age": "Age",
+      "RespiratoryRate": "Respiratory rate",
+      "Symptoms": "Symptoms"
+    },
+    "Alert": {
+      "Title": "Information",
+      "Okbutton": "OK",
+      "BodySurfaceArea": {
+        "PositiveWeight": "Please, enter weight > 0",
+        "PositiveHeight": "Please, enter height > 0"
+      },
+      "SelectAge": "Please select age",
+      "EnterAll": "Please enter all data",
+      "SelectRespiratoryRate": "Please select respiratory rate"
+    }
+  }
+}

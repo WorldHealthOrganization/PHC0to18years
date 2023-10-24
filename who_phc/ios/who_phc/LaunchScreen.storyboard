@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22154" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_72" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22130"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="932"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="middleTruncation" numberOfLines="3" minimumFontSize="18" translatesAutoresizingMaskIntoConstraints="NO" id="GJd-Yh-RWb">
+                                <rect key="frame" x="0.0" y="134" width="430" height="125.33333333333331"/>
+                                <string key="text">Primary health care
+for children and
+adolescents</string>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="35"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash_screen.png" translatesAutoresizingMaskIntoConstraints="NO" id="jKP-cS-Rjy">
+                                <rect key="frame" x="0.0" y="279.33333333333331" width="430" height="144"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="144" id="mlp-P6-RdT"/>
+                                </constraints>
+                                <edgeInsets key="layoutMargins" top="8" left="18" bottom="8" right="18"/>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="from the newborn period to adolescence" textAlignment="center" lineBreakMode="middleTruncation" baselineAdjustment="alignBaselines" minimumFontSize="14" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="HsV-xx-6c1">
+                                <rect key="frame" x="64.666666666666686" y="479" width="301" height="19"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="350" id="O5V-Bx-gCI"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="16"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CYj-Ke-QUg">
+                                <rect key="frame" x="94.666666666666686" y="739" width="241" height="109"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="who_logo" id="L7v-BJ-zhT">
+                                        <rect key="frame" x="25.333333333333332" y="5" width="189" height="70"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="70" id="9d2-Uh-46p"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="REGIONAL OFFICE FOR" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="6" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pTG-Ko-Qqm">
+                                        <rect key="frame" x="25.333333333333329" y="81" width="124.99999999999999" height="14"/>
+                                        <fontDescription key="fontDescription" type="system" weight="medium" pointSize="11"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Europe" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="R0F-Wx-bw7">
+                                        <rect key="frame" x="155.33333333333331" y="76" width="58" height="21"/>
+                                        <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="_____________" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A2A-Xl-48r">
+                                        <rect key="frame" x="97.666666666666657" y="57" width="115.66666666666666" height="18"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="18" id="feV-5l-Deh"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="R0F-Wx-bw7" firstAttribute="trailing" secondItem="L7v-BJ-zhT" secondAttribute="trailing" id="0eP-1o-7wd"/>
+                                    <constraint firstAttribute="bottom" secondItem="pTG-Ko-Qqm" secondAttribute="bottom" constant="14" id="22l-Gj-Uwc"/>
+                                    <constraint firstItem="L7v-BJ-zhT" firstAttribute="top" secondItem="CYj-Ke-QUg" secondAttribute="top" constant="5" id="4VA-oy-cyt"/>
+                                    <constraint firstItem="A2A-Xl-48r" firstAttribute="trailing" secondItem="L7v-BJ-zhT" secondAttribute="trailing" id="80n-rl-JE1"/>
+                                    <constraint firstItem="L7v-BJ-zhT" firstAttribute="centerX" secondItem="CYj-Ke-QUg" secondAttribute="centerX" id="CW8-AS-7Zr"/>
+                                    <constraint firstAttribute="width" constant="241" id="EPS-ah-5a9"/>
+                                    <constraint firstItem="pTG-Ko-Qqm" firstAttribute="trailing" secondItem="R0F-Wx-bw7" secondAttribute="leading" constant="-5" id="KTV-41-Que"/>
+                                    <constraint firstItem="A2A-Xl-48r" firstAttribute="bottom" secondItem="L7v-BJ-zhT" secondAttribute="bottom" id="Sbg-xT-rYl"/>
+                                    <constraint firstAttribute="height" constant="109" id="Ty0-EW-4Ho"/>
+                                    <constraint firstAttribute="bottom" secondItem="R0F-Wx-bw7" secondAttribute="bottom" constant="12" id="XNM-kt-ZYX"/>
+                                    <constraint firstItem="pTG-Ko-Qqm" firstAttribute="leading" secondItem="L7v-BJ-zhT" secondAttribute="leading" id="hmM-cD-Sv4"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="GUIDELINES FOR HEALTH PROMOTION, DISEASE PREVENTION AND MANAGEMENT" textAlignment="center" lineBreakMode="middleTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="15" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="xRt-6d-NTR">
+                                <rect key="frame" x="44.666666666666657" y="438.33333333333331" width="341" height="40.666666666666686"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" relation="lessThanOrEqual" constant="350" id="YeZ-sn-3gf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <color key="backgroundColor" red="0.75469225650000005" green="0.1701909006" blue="0.13328385349999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstItem="HsV-xx-6c1" firstAttribute="centerX" secondItem="Bcu-3y-fUS" secondAttribute="centerX" id="4OE-LT-CK5"/>
+                            <constraint firstItem="xRt-6d-NTR" firstAttribute="centerX" secondItem="Bcu-3y-fUS" secondAttribute="centerX" id="6Qd-kR-cN9"/>
+                            <constraint firstItem="CYj-Ke-QUg" firstAttribute="centerX" secondItem="Bcu-3y-fUS" secondAttribute="centerX" id="DDI-0n-hoX"/>
+                            <constraint firstItem="jKP-cS-Rjy" firstAttribute="centerX" secondItem="Bcu-3y-fUS" secondAttribute="centerX" id="Ejb-Oc-vp7"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="centerX" secondItem="GJd-Yh-RWb" secondAttribute="centerX" id="Q3B-4B-g5h"/>
+                            <constraint firstItem="CYj-Ke-QUg" firstAttribute="bottom" secondItem="Bcu-3y-fUS" secondAttribute="bottom" constant="-50" id="R9q-GG-ihQ"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="HsV-xx-6c1" secondAttribute="trailing" constant="30" id="UMP-L9-Xr0"/>
+                            <constraint firstItem="jKP-cS-Rjy" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" id="VNm-5d-m7H"/>
+                            <constraint firstItem="HsV-xx-6c1" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="30" id="ZRm-lX-9Yv"/>
+                            <constraint firstItem="Bcu-3y-fUS" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="xRt-6d-NTR" secondAttribute="trailing" constant="30" id="alU-fz-enW"/>
+                            <constraint firstItem="HsV-xx-6c1" firstAttribute="top" secondItem="xRt-6d-NTR" secondAttribute="bottom" id="gyK-O3-zOF"/>
+                            <constraint firstItem="xRt-6d-NTR" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Bcu-3y-fUS" secondAttribute="leading" constant="30" id="hhJ-Jm-fEd"/>
+                            <constraint firstItem="xRt-6d-NTR" firstAttribute="top" secondItem="jKP-cS-Rjy" secondAttribute="bottom" constant="15" id="kIr-9K-8PK"/>
+                            <constraint firstItem="jKP-cS-Rjy" firstAttribute="top" secondItem="GJd-Yh-RWb" secondAttribute="bottom" constant="20" id="oo1-NX-6JM"/>
+                            <constraint firstAttribute="trailing" secondItem="jKP-cS-Rjy" secondAttribute="trailing" id="sle-WW-4se"/>
+                            <constraint firstItem="GJd-Yh-RWb" firstAttribute="top" secondItem="Bcu-3y-fUS" secondAttribute="top" constant="75" id="us6-XC-hCz"/>
+                            <constraint firstItem="GJd-Yh-RWb" firstAttribute="leading" secondItem="Bcu-3y-fUS" secondAttribute="leading" symbolic="YES" id="x7j-FC-K8j"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="42.056074766355138" y="368.03455723542118"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash_screen.png" width="1665" height="544"/>
+        <image name="who_logo" width="1000" height="357.66665649414062"/>
+    </resources>
+</document>

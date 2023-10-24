@@ -1,0 +1,257 @@
+import { HomeRoutes } from '../../../routing/routing';
+import { ChapterItem, ChapterItemType } from '../../../domains/types/MenuItemT';
+
+const newbornHealthList: ChapterItem[] = [
+  {
+    label: 'NewbornHealthPage.Approach',
+    path: HomeRoutes.ChapterScreen,
+    id: 5,
+    type: ChapterItemType.ApproachBtn,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.CareAndPhysical',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'care-physical-examination-newborn',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.GrowthWeightMonitoring',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'growth-weight-monitoring',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.ScreeningTests',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'screening-tests',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.AdditionalConsiderations',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'additional-considerations-home-delivery',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.CounsellingDuring',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'counselling-during-newborn-period',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.NormalVariations',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'variations-concerning-findings',
+    id: 5,
+    nested: [
+      {
+        label: 'NewbornHealthPage.Menu.HeadAndSkull',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'head-skull',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Face',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'face',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Mouth',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'mouth',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Neck',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'neck',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Ears',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'ears',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Eyes',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'eyes',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Abdomen',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'abdomen',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Genitalia',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'genitalia-anus-inguinal-area',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Spine',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'spine-lumbosacral-region',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.ArmsAndHands',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'arms-hands',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.LegsAndFeet',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'legs-feet',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Hips',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'hips',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.Skin',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'skin',
+        id: 5,
+      },
+    ],
+  },
+  {
+    label: 'NewbornHealthPage.Menu.NeonatalJaundice',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'neonatal-jaundice-hyperbilirubinaemia',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.DelayPassingMeconium',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'delay-passing-meconium',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.ExcessiveCrying',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'excessive-crying',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.Vomiting',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'vomiting',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.DownSyndrome',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'down-syndrome-trisomy-21',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.FetalAlcohol',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'fetal-alcohol-spectrum-disorder',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.CongenitalHeartDisease',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'congenital-heart-disease',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.CongenitalStridor',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'laryngomalacia',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.NewbornMetabolicCondition',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'newborn-with-metabolic-condition',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.CongenitalHypothyroidism',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'congenital-hypothyroidism',
+    id: 5,
+  },
+  {
+    label: 'NewbornHealthPage.Menu.NewbornsMothersInfectious',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'newborns-of-mothers-with-infectious-diseases',
+    id: 5,
+    nested: [
+      {
+        label: 'NewbornHealthPage.Menu.CongenitalCytomegalovirus',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'congenital-cytomegalovirus-infection',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.CongenitalRubella',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'congenital-rubella-infection',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.CongenitalSyphilis',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'congenital-syphilis',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.CongenitalToxoplasmosis',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'congenital-toxoplasmosis',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.HerpesSimplexVirus',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'herpes-simplex-virus',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.NewbornsOfMothersWithHIV',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'newborns-mothers-HIV',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.NewbornsOfMothersWitHepatitisB',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'newborns-mothers-hepatitis-B',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.NewbornsOfMothersWithCOVID19',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'newborns-mothers-covid-19',
+        id: 5,
+      },
+      {
+        label: 'NewbornHealthPage.Menu.NewbornsOfMothersWithTuberculosis',
+        path: HomeRoutes.ChapterScreen,
+        idSubchapterInHTML: 'newborns-mothers-tuberculosis',
+        id: 5,
+      },
+    ],
+  },
+  {
+    label: 'NewbornHealthPage.Menu.TheSickNewborn',
+    path: HomeRoutes.ChapterScreen,
+    idSubchapterInHTML: 'sick-newborn-danger-signs',
+    id: 5,
+  },
+];
+
+export default newbornHealthList;

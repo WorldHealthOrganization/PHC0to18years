@@ -1,0 +1,66 @@
+{
+  "translation" : {
+    "HomePage": {
+      "Title": "Головна сторінка",
+      "LocalizationTest": "Змінити мову"
+    },
+    "SettingsPage":{
+      "PageTitle": "Налаштування",
+      "FontTitle": "Розмір шрифту: ",
+      "LanguageTitle": "Виберіть мову: "
+    },
+    "ProvidingCarePage": {
+      "Title": "Догляд"
+    },
+    "AdolescentHealthPage": {
+      "Title": "Здоров'я підлітків"
+    },
+    "DiagnosticApproachesPage": {
+      "Title": "Підходи діагностики"
+    },
+    "DrugDosagesPage": {
+      "Title": "Дозування ліків"
+    },
+    "EmergencyPage": {
+      "Title": "Надзвичайна ситуація"
+    },
+    "HealthPromotionPage": {
+      "Title": "Зміцнення здоров'я"
+    },
+    "NewbornHealthPage": {
+      "Title": "Здоров'я немовлят"
+    },
+    "OtherPage": {
+      "Title": "Інше"
+    },
+    "PracticalProceduresPage": {
+      "Title": "Практичні процедури"
+    },
+    "SpecificComplaintPage": {
+      "Title": "Специфічна скарга"
+    },
+    "SpecificDiseasePage": {
+      "Title": "Специфічна хвороба"
+    },
+    "WellChildVisitPage": {
+      "Title": "Плановий візит",
+      "Menu": {
+        "GrowthMonitoring": "Ведення вагітності",
+        "Birth72hours": "Народження (72 години)",
+        "1Week": "1 тиждень",
+        "1Month": "1 місяць",
+        "3Month": "3 місяці",
+        "6Month": "6 місяців",
+        "1Year": "1 рік",
+        "2Year": "2 роки",
+        "3Years": "3 роки",
+        "4Years": "4 роки",
+        "5Years": "5 років",
+        "8Years": "8 років",
+        "10Years": "10 років",
+        "12Years": "12 років",
+        "14Years": "14 років"
+      }
+    }
+  }
+}
